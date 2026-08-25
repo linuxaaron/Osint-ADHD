@@ -26,30 +26,20 @@
 ├── README.md
 ├── LICENSE
 ├── THIRD-PARTY-NOTICES.md
+├── data/
 ├── sources/
 │   ├── UPSTREAM.md
 │   ├── schema.md
 │   └── upstream-metadata.json
 ├── recommendations/
-│   └── aaron-recommended.md
 ├── categories/
-│   ├── username.md
-│   ├── email.md
-│   ├── domains-infrastructure.md
-│   ├── social-media.md
-│   ├── people.md
-│   ├── images.md
-│   ├── geolocation.md
-│   ├── documents.md
-│   ├── companies.md
-│   ├── code-github.md
-│   ├── search-engines.md
-│   └── investigations.md
 ├── scripts/
 │   └── sync_upstream.py
 └── .github/workflows/
     └── sync-osint-framework.yml
 ```
+
+Die Verzeichnisnamen sind bewusst technisch gehalten; die erklärende Dokumentation ist auf Deutsch.
 
 ## Offizielles OSINT Framework
 
@@ -57,7 +47,7 @@ Das zentrale Upstream-Projekt wird von `lockfale` gepflegt:
 
 - Webseite: https://osintframework.com/
 - Repository: https://github.com/lockfale/OSINT-Framework
-- Strukturierte Daten: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
+- strukturierte Daten: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
 
 Das Upstream-Dataset enthält strukturierte Ressourceneinträge einschließlich URLs und Metadaten. Dieses Repository kennzeichnet die Quelle ausdrücklich und verwendet einen automatisierten Synchronisationsprozess.
 
@@ -85,12 +75,12 @@ Nicht zuverlässig verifizierbare Angaben werden als unbekannt gekennzeichnet un
 
 Beiträge sollten:
 
-1. Nach Möglichkeit eine kanonische URL enthalten.
-2. Die Funktion der Ressource sachlich beschreiben.
-3. Keine unbelegten Aussagen über Genauigkeit, Anonymität oder Rechtmäßigkeit enthalten.
-4. Bekannte Anforderungen an Registrierung, API und Kosten dokumentieren.
-5. Persönliche Empfehlungen von den Upstream-Daten getrennt halten.
-6. Niemals Zugangsdaten, private Daten, API-Schlüssel oder Untersuchungsziele einchecken.
+1. nach Möglichkeit eine kanonische URL enthalten.
+2. die Funktion der Ressource sachlich beschreiben.
+3. keine unbelegten Aussagen über Genauigkeit, Anonymität oder Rechtmäßigkeit enthalten.
+4. bekannte Anforderungen an Registrierung, API und Kosten dokumentieren.
+5. persönliche Empfehlungen von den Upstream-Daten getrennt halten.
+6. niemals Zugangsdaten, private Daten, API-Schlüssel oder Untersuchungsziele einchecken.
 
 ## Lizenz
 
