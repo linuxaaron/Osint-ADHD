@@ -1,0 +1,11 @@
+{
+  "project": "OSINT Framework",
+  "source_repository": "https://github.com/lockfale/OSINT-Framework",
+  "website": "https://osintframework.com/",
+  "dataset": "https://raw.githubusercontent.com/lockfale/OSINT-Framework/master/public/arf.json",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2017 Justin Nordine (https://github.com/s0lray)",
+  "local_snapshot": "data/osint-framework.json",
+  "generated_index": "data/osint-framework-links.md",
+  "sync_method": "scripts/sync_upstream.py"
+}
