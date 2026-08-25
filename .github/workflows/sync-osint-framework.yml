@@ -1,8 +1,6 @@
 name: Sync OSINT Framework
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: "17 4 * * 1"
@@ -12,8 +10,6 @@ permissions:
 
 jobs:
   sync:
-    # Prevent an infinite loop when the bot commits generated data.
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -26,6 +22,11 @@ jobs:
 
       - name: Sync upstream dataset
         run: python3 scripts/sync_upstream.py
+
+      - name: Validate generated data
+        run: |
+          python3 -m json.tool data/osint-framework.json >/dev/null
+          test -s data/osint-framework-links.md
 
       - name: Commit changes
         run: |
