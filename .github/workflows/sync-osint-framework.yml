@@ -1,41 +1,48 @@
-name: Sync OSINT Framework
+name: OSINT Framework synchronisieren
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "17 4 * * 1"
 
+concurrency:
+  group: osint-framework-sync
+  cancel-in-progress: true
+
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
+      - name: Repository auschecken
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Python einrichten
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Sync upstream dataset
+      - name: Upstream-Datensatz synchronisieren
         run: python3 scripts/sync_upstream.py
 
-      - name: Validate generated data
+      - name: Generierte Daten validieren
         run: |
           python3 -m json.tool data/osint-framework.json >/dev/null
           test -s data/osint-framework-links.md
 
-      - name: Commit changes
+      - name: Änderungen übernehmen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/osint-framework.json data/osint-framework-links.md
           if git diff --cached --quiet; then
-            echo "No upstream changes."
+            echo "Keine Änderungen am Upstream-Datensatz."
             exit 0
           fi
-          git commit -m "chore: sync OSINT Framework data"
+          git commit -m "chore: OSINT-Framework-Daten synchronisieren"
           git push
