@@ -1,56 +1,56 @@
-# Aaron's recommended OSINT resources
+# Aarons empfohlene OSINT-Ressourcen
 
-This page is intentionally separate from the upstream OSINT Framework dataset. It represents a personal recommendation layer and can evolve independently.
+Diese Seite ist bewusst von den Daten des offiziellen OSINT Frameworks getrennt. Sie enthält eine persönliche Auswahl empfohlener Ressourcen und kann unabhängig vom Upstream-Dataset weiterentwickelt werden.
 
-> **Status:** initial baseline. Each resource should be periodically re-evaluated before being treated as operationally current.
+> **Status:** Ausgangsbasis. Jede Ressource sollte regelmäßig erneut geprüft werden, bevor sie als aktuell und einsatzbereit betrachtet wird.
 
-## Identity & usernames
+## Identität und Benutzernamen
 
-| Resource | URL | Primary use | Notes |
+| Ressource | URL | Hauptzweck | Hinweise |
 |---|---|---|---|
-| WhatsMyName | https://whatsmyname.app/ | Username enumeration | Fast web-based cross-platform discovery |
-| Sherlock | https://github.com/sherlock-project/sherlock | Username enumeration | Local CLI; direct requests to target platforms |
-| Namechk | https://namechk.com/ | Username/domain availability | Useful first-pass correlation |
-| Keybase | https://keybase.io/ | Identity/key correlation | Public cryptographic identity data |
-| Sylva Identity Discovery | https://sylva.pfeister.dev/ | Identity discovery | Useful for branching from known identifiers |
+| WhatsMyName | https://whatsmyname.app/ | Suche nach Benutzernamen | Schnelle plattformübergreifende Suche |
+| Sherlock | https://github.com/sherlock-project/sherlock | Suche nach Benutzernamen | Lokales CLI; direkte Anfragen an Zielplattformen |
+| Namechk | https://namechk.com/ | Benutzername- und Domainprüfung | Geeignet für eine erste Zuordnung |
+| Keybase | https://keybase.io/ | Identitäts- und Schlüsselzuordnung | Öffentliche kryptografische Identitätsdaten |
+| Sylva Identity Discovery | https://sylva.pfeister.dev/ | Identitätssuche | Geeignet für weitere Recherchezweige aus bekannten Kennungen |
 
-## Email & identity correlation
+## E-Mail und Identitätszuordnung
 
-| Resource | URL | Primary use | Notes |
+| Ressource | URL | Hauptzweck | Hinweise |
 |---|---|---|---|
-| Hunter | https://hunter.io/ | Business email discovery | Domain/name-based discovery; service limits apply |
-| OSINT Industries | https://www.osint.industries/ | Account correlation | Treat results as leads requiring verification |
-| theHarvester | https://github.com/laramies/theHarvester | Passive collection | Domains, emails, subdomains and URLs from public sources |
-| GHunt | https://github.com/mxrch/GHunt | Google-account OSINT | Requires careful OPSEC and current compatibility checks |
+| Hunter | https://hunter.io/ | Recherche geschäftlicher E-Mail-Adressen | Suche nach Domain und Namen; Dienstbeschränkungen beachten |
+| OSINT Industries | https://www.osint.industries/ | Kontenzuordnung | Ergebnisse als Recherchehinweise behandeln und verifizieren |
+| theHarvester | https://github.com/laramies/theHarvester | Passive Datensammlung | Domains, E-Mail-Adressen, Subdomains und URLs aus öffentlichen Quellen |
+| GHunt | https://github.com/mxrch/GHunt | Google-Konto-OSINT | Aktuelle Kompatibilität und OPSEC beachten |
 
-## Web, domains & infrastructure
+## Web, Domains und Infrastruktur
 
-| Resource | URL | Primary use | Notes |
+| Ressource | URL | Hauptzweck | Hinweise |
 |---|---|---|---|
-| OSINT Framework | https://osintframework.com/ | Resource discovery | Canonical upstream reference for this repository |
-| SecurityTrails | https://securitytrails.com/ | DNS/domain intelligence | Historical DNS and infrastructure context |
-| crt.sh | https://crt.sh/ | Certificate transparency | Useful for discovering certificate-associated hostnames |
-| Shodan | https://www.shodan.io/ | Internet-exposed services | Use only for lawful reconnaissance and interpretation |
-| Censys | https://search.censys.io/ | Internet infrastructure | Certificate/host/service discovery |
+| OSINT Framework | https://osintframework.com/ | Ressourcen finden | Zentrale Upstream-Quelle dieses Projekts |
+| SecurityTrails | https://securitytrails.com/ | DNS- und Domaininformationen | Historische DNS- und Infrastrukturinformationen |
+| crt.sh | https://crt.sh/ | Certificate Transparency | Suche nach Hostnamen anhand von Zertifikaten |
+| Shodan | https://www.shodan.io/ | Öffentlich erreichbare Dienste | Nur für rechtmäßige Recherche und Analyse verwenden |
+| Censys | https://search.censys.io/ | Internet-Infrastruktur | Suche nach Zertifikaten, Hosts und Diensten |
 
-## GitHub & code intelligence
+## GitHub und Code-Recherche
 
-| Resource | URL | Primary use | Notes |
+| Ressource | URL | Hauptzweck | Hinweise |
 |---|---|---|---|
-| GitHub | https://github.com/ | Public code/repository research | Search public repositories and history |
-| GitFive | https://github.com/mxrch/GitFive | GitHub profile investigation | Correlation of public GitHub artifacts |
+| GitHub | https://github.com/ | Recherche öffentlicher Repositories und Quelltexte | Öffentliche Repositories und Versionshistorie durchsuchen |
+| GitFive | https://github.com/mxrch/GitFive | Untersuchung von GitHub-Profilen | Zuordnung öffentlich verfügbarer GitHub-Artefakte |
 
-## Methodology
+## Methodik
 
-A recommendation is not a finding. For investigations, corroborate important observations with independent sources and preserve timestamps, URLs and relevant context.
+Eine Empfehlung ist kein Untersuchungsergebnis. Wichtige Feststellungen sollten mit unabhängigen Quellen überprüft werden. Zeitstempel, URLs und relevanter Kontext sollten nachvollziehbar dokumentiert werden.
 
-Prefer this workflow:
+Empfohlener Ablauf:
 
-1. **Define the question.**
-2. **Start with the least intrusive public source.**
-3. **Collect identifiers, not conclusions.**
-4. **Pivot only when an identifier is supported.**
-5. **Correlate across independent sources.**
-6. **Record timestamps and provenance.**
-7. **Mark uncertainty explicitly.**
-8. **Stop when the research question is answered.**
+1. **Fragestellung definieren.**
+2. **Mit der am wenigsten eingreifenden öffentlichen Quelle beginnen.**
+3. **Zunächst Kennungen erfassen, nicht Schlussfolgerungen.**
+4. **Nur auf bestätigten Kennungen weiterrecherchieren.**
+5. **Ergebnisse mit unabhängigen Quellen abgleichen.**
+6. **Zeitstempel und Herkunft dokumentieren.**
+7. **Unsicherheiten ausdrücklich kennzeichnen.**
+8. **Recherche beenden, sobald die Fragestellung beantwortet ist.**
