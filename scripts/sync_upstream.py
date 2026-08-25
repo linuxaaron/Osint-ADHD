@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
-"""Sync the official OSINT Framework dataset into OSINT ADHD.
+"""Synchronisiert das offizielle OSINT Framework mit OSINT ADHD.
 
-The script intentionally performs no third-party crawling. It downloads only the
-canonical upstream JSON file, validates it, preserves the upstream structure and
-generates a flat Markdown navigation index for humans.
+Es wird ausschließlich die kanonische arf.json geladen. Daraus werden die
+Rohdaten, ein vollständiger Link-Index und einzelne kategorisierte Markdown-
+Dateien erzeugt. Externe Ressourcen werden nicht automatisch aufgerufen.
 """
 
 from __future__ import annotations
 
 import json
 import pathlib
+import re
 import urllib.request
-from typing import Any
+from collections import defaultdict
+from typing import Any, Iterator
 
 UPSTREAM_URL = (
     "https://raw.githubusercontent.com/lockfale/OSINT-Framework/"
@@ -19,6 +21,7 @@ UPSTREAM_URL = (
 )
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
+CATEGORY_DIR = ROOT / "categories"
 JSON_OUT = DATA_DIR / "osint-framework.json"
 MD_OUT = DATA_DIR / "osint-framework-links.md"
 
@@ -31,15 +34,13 @@ def fetch_json() -> dict[str, Any]:
     with urllib.request.urlopen(request, timeout=30) as response:
         payload = json.load(response)
 
-    if not isinstance(payload, dict):
-        raise ValueError("Upstream dataset root must be a JSON object")
-    if payload.get("type") != "folder":
-        raise ValueError("Unexpected upstream dataset type")
+    if not isinstance(payload, dict) or payload.get("type") != "folder":
+        raise ValueError("Unerwartete Struktur des Upstream-Datensatzes")
     return payload
 
 
-def walk(node: dict[str, Any], parents: tuple[str, ...] = ()):
-    name = str(node.get("name", "Unnamed"))
+def walk(node: dict[str, Any], parents: tuple[str, ...] = ()) -> Iterator[tuple[tuple[str, ...], dict[str, Any]]]:
+    name = str(node.get("name", "Unbenannt"))
     current = parents + (name,)
 
     if node.get("type") == "url" and node.get("url"):
@@ -51,51 +52,105 @@ def walk(node: dict[str, Any], parents: tuple[str, ...] = ()):
             yield from walk(child, current)
 
 
-def markdown_index(dataset: dict[str, Any]) -> str:
-    records = list(walk(dataset))
-    records.sort(key=lambda item: (item[0], str(item[1].get("url", ""))))
+def slugify(value: str) -> str:
+    value = value.lower().strip()
+    value = re.sub(r"[^a-z0-9äöüß]+", "-", value)
+    value = value.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
+    return value.strip("-") or "allgemein"
 
+
+def category_name(path: tuple[str, ...]) -> str:
+    return " / ".join(path[1:-1]) if len(path) > 2 else "Allgemein"
+
+
+def render_records(title: str, records: list[tuple[tuple[str, ...], dict[str, Any]]]) -> str:
     lines = [
-        "# OSINT Framework — generated URL index",
+        f"# {title}",
         "",
-        "> Generated from the official OSINT Framework dataset. Do not edit manually.",
-        "> Source: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json",
+        "> Automatisch aus dem offiziellen OSINT Framework erzeugt. Nicht manuell bearbeiten.",
+        "> Die Namen und Beschreibungen der externen Ressourcen bleiben im Original, damit keine Bedeutungen verfälscht werden.",
         "",
-        f"**Indexed resources:** {len(records)}",
-        "",
-        "## Resources",
+        f"**Anzahl Ressourcen:** {len(records)}",
         "",
     ]
 
     for path, item in records:
-        category = " / ".join(path[1:-1]) if len(path) > 2 else "General"
         name = str(item.get("name", path[-1]))
         url = str(item["url"])
-        lines.append(f"- **{name}** — `{category}` — {url}")
+        lines.append(f"## {name}")
+        lines.append("")
+        lines.append(f"- **URL:** {url}")
+        lines.append(f"- **Kategorie:** {category_name(path)}")
+        if item.get("description"):
+            lines.append(f"- **Beschreibung:** {item['description']}")
+        if item.get("status"):
+            lines.append(f"- **Status:** {item['status']}")
+        if item.get("pricing"):
+            lines.append(f"- **Kosten:** {item['pricing']}")
+        if item.get("registration") is not None:
+            lines.append(f"- **Registrierung:** {item['registration']}")
+        if item.get("api") is not None:
+            lines.append(f"- **API:** {item['api']}")
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+def generate_indexes(dataset: dict[str, Any]) -> int:
+    records = list(walk(dataset))
+    records.sort(key=lambda item: (item[0], str(item[1].get("url", ""))))
+
+    lines = [
+        "# OSINT Framework — vollständige Linkliste",
+        "",
+        "> Automatisch aus dem offiziellen OSINT Framework erzeugt. Nicht manuell bearbeiten.",
+        "> Quelle: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json",
+        "",
+        f"**Erfasste Ressourcen:** {len(records)}",
+        "",
+        "## Alle Ressourcen",
+        "",
+    ]
+
+    grouped: dict[str, list[tuple[tuple[str, ...], dict[str, Any]]]] = defaultdict(list)
+    for path, item in records:
+        grouped[category_name(path)].append((path, item))
+        name = str(item.get("name", path[-1]))
+        url = str(item["url"])
+        lines.append(f"- **{name}** — `{category_name(path)}` — {url}")
 
     lines.extend([
         "",
-        "## Provenance",
+        "## Herkunft",
         "",
-        "This file is generated from upstream data. Third-party resources remain subject to their own terms.",
+        "Diese Datei wird aus dem offiziellen Upstream-Datensatz erzeugt. Die verlinkten Drittanbieter-Ressourcen unterliegen ihren eigenen Nutzungsbedingungen.",
         "",
     ])
-    return "\n".join(lines)
+    MD_OUT.write_text("\n".join(lines), encoding="utf-8")
+
+    CATEGORY_DIR.mkdir(parents=True, exist_ok=True)
+    for category, category_records in grouped.items():
+        filename = f"{slugify(category)}.md"
+        (CATEGORY_DIR / filename).write_text(
+            render_records(category, category_records), encoding="utf-8"
+        )
+
+    return len(records)
 
 
 def main() -> None:
     dataset = fetch_json()
     records = list(walk(dataset))
     if not records:
-        raise ValueError("Upstream dataset contains no URL records")
+        raise ValueError("Der Upstream-Datensatz enthält keine URL-Ressourcen")
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     JSON_OUT.write_text(
         json.dumps(dataset, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    MD_OUT.write_text(markdown_index(dataset), encoding="utf-8")
-    print(f"Synced {len(records)} URL records from OSINT Framework")
+    count = generate_indexes(dataset)
+    print(f"{count} URL-Ressourcen aus dem OSINT Framework synchronisiert")
 
 
 if __name__ == "__main__":
