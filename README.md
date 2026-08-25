@@ -1,25 +1,25 @@
-# OSINT ADHD 🧠🔎
+# OSINT ADHD
 
-> A professional, curated OSINT resource index for web-based investigations.
+> Professionelle, kuratierte Sammlung von OSINT-Ressourcen für webbasierte Recherchen.
 
-**OSINT ADHD** is a structured collection of publicly accessible OSINT resources, investigation utilities, search engines, reference material, and research workflows. The project uses the official **OSINT Framework** as an upstream reference and adds a separate layer for personal recommendations and operational notes.
+**OSINT ADHD** ist eine strukturierte Sammlung öffentlich zugänglicher OSINT-Ressourcen, Recherchewerkzeuge, Suchmaschinen, Referenzmaterialien und Arbeitsabläufe. Als Datenquelle wird das offizielle **OSINT Framework** verwendet. Zusätzlich enthält das Projekt eine getrennte Ebene für persönliche Empfehlungen und eigene Hinweise.
 
-[![OSINT Framework](https://img.shields.io/badge/upstream-OSINT%20Framework-111827)](https://osintframework.com/)
-[![License](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
-[![Data](https://img.shields.io/badge/data-upstream%20synced-orange.svg)](sources/UPSTREAM.md)
+[![OSINT Framework](https://img.shields.io/badge/Quelle-OSINT%20Framework-111827)](https://osintframework.com/)
+[![Lizenz](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
+[![Daten](https://img.shields.io/badge/Daten-automatisch%20synchronisiert-orange.svg)](sources/UPSTREAM.md)
 
 ---
 
-## Project goals
+## Projektziele
 
-- Keep OSINT resources **structured, searchable and reproducible**.
-- Preserve the official OSINT Framework dataset as an upstream source rather than silently presenting it as original work.
-- Maintain a separate, human-curated list of **Aaron's recommended resources**.
-- Record useful metadata such as category, pricing model, API availability, registration requirements and operational characteristics where reliable.
-- Prefer lawful, public-information research and clearly distinguish passive lookups from direct requests.
-- Make the repository useful both to humans and to automation.
+- OSINT-Ressourcen strukturiert, durchsuchbar und reproduzierbar erfassen.
+- Das offizielle OSINT Framework eindeutig als externe Quelle kennzeichnen.
+- Eine getrennte, persönlich kuratierte Sammlung empfohlener Ressourcen pflegen.
+- Relevante Metadaten wie Kategorie, Preismodell, API-Verfügbarkeit und Registrierung dokumentieren, sofern diese zuverlässig verifizierbar sind.
+- Rechtmäßige Recherche mit öffentlich zugänglichen Informationen unterstützen.
+- Die Daten sowohl für Menschen als auch für automatisierte Verarbeitung nutzbar machen.
 
-## Repository layout
+## Repository-Struktur
 
 ```text
 .
@@ -51,47 +51,47 @@
     └── sync-osint-framework.yml
 ```
 
-## Upstream OSINT Framework
+## Offizielles OSINT Framework
 
-The canonical upstream project is maintained by `lockfale`:
+Das zentrale Upstream-Projekt wird von `lockfale` gepflegt:
 
-- Website: https://osintframework.com/
+- Webseite: https://osintframework.com/
 - Repository: https://github.com/lockfale/OSINT-Framework
-- Structured dataset: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
+- Strukturierte Daten: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
 
-The upstream dataset contains structured resource records, including URLs and metadata. This repository deliberately keeps the upstream source identifiable and provides tooling to synchronize it instead of pretending that upstream records are original content.
+Das Upstream-Dataset enthält strukturierte Ressourceneinträge einschließlich URLs und Metadaten. Dieses Repository kennzeichnet die Quelle ausdrücklich und verwendet einen automatisierten Synchronisationsprozess.
 
-## Personal recommendations
+## Persönliche Empfehlungen
 
-See [`recommendations/aaron-recommended.md`](recommendations/aaron-recommended.md) for the resources personally recommended by Aaron. These recommendations are intentionally separate from the upstream dataset.
+Die persönlich empfohlenen Ressourcen befinden sich unter [`recommendations/aaron-recommended.md`](recommendations/aaron-recommended.md). Diese Sammlung bleibt bewusst von den Upstream-Daten getrennt.
 
-## Responsible use
+## Verantwortungsvolle Nutzung
 
-This repository is an index, not an authorization mechanism. A resource being listed here does **not** mean that its use is legal, permitted by a target, or appropriate for a particular investigation.
+Dieses Repository ist ein Ressourcenverzeichnis und keine Berechtigung zur Durchführung einer Recherche. Die Aufnahme einer Ressource bedeutet nicht, dass deren Nutzung in einem bestimmten Fall rechtlich zulässig oder vom jeweiligen Zielsystem erlaubt ist.
 
-Use OSINT resources only for lawful research, your own assets, or systems and data for which you have permission. Respect privacy law, terms of service, robots/rate-limit policies, access controls and applicable professional rules.
+OSINT-Ressourcen ausschließlich für rechtmäßige Recherchen, eigene Systeme und Daten oder Systeme und Daten verwenden, für die eine ausdrückliche Berechtigung besteht. Datenschutzrecht, Nutzungsbedingungen, Robots-Regeln, Rate Limits, Zugriffskontrollen und sonstige geltende Vorschriften beachten.
 
-**Do not use this repository to bypass authentication, defeat access controls, obtain non-public information, evade rate limits, or conduct unauthorized activity.**
+**Dieses Repository darf nicht dazu verwendet werden, Authentifizierung oder Zugriffskontrollen zu umgehen, nicht öffentliche Informationen unbefugt zu beschaffen, Rate Limits zu umgehen oder unbefugte Aktivitäten durchzuführen.**
 
-Operational notes in this repository are informational and can become stale. Always verify current behavior with the provider before relying on a tool in an investigation.
+Hinweise zu einzelnen Ressourcen können veralten. Vor dem Einsatz in einer tatsächlichen Recherche ist das aktuelle Verhalten des jeweiligen Anbieters zu prüfen.
 
-## Data quality
+## Datenqualität
 
-Resource availability changes frequently. Links can disappear, domains can change ownership, APIs can become paid, and tools can be abandoned. The repository therefore treats resource status as **time-sensitive metadata**, not a permanent guarantee.
+Die Verfügbarkeit von Ressourcen ändert sich regelmäßig. Links können verschwinden, Domains können den Betreiber wechseln, APIs können kostenpflichtig werden und Projekte können eingestellt werden. Der Status einer Ressource ist deshalb als zeitabhängige Information zu verstehen und nicht als dauerhafte Garantie.
 
-When a claim cannot be verified reliably, it should be marked as unknown rather than guessed.
+Nicht zuverlässig verifizierbare Angaben werden als unbekannt gekennzeichnet und nicht geraten.
 
-## Contributing
+## Beiträge
 
-Contributions should:
+Beiträge sollten:
 
-1. Add a canonical URL where possible.
-2. Explain what the resource actually does.
-3. Avoid unsupported claims about accuracy, anonymity or legality.
-4. Note registration/API/pricing requirements when known.
-5. Keep personal recommendations separate from upstream resources.
-6. Never commit credentials, private data, API keys or investigation targets.
+1. Nach Möglichkeit eine kanonische URL enthalten.
+2. Die Funktion der Ressource sachlich beschreiben.
+3. Keine unbelegten Aussagen über Genauigkeit, Anonymität oder Rechtmäßigkeit enthalten.
+4. Bekannte Anforderungen an Registrierung, API und Kosten dokumentieren.
+5. Persönliche Empfehlungen von den Upstream-Daten getrennt halten.
+6. Niemals Zugangsdaten, private Daten, API-Schlüssel oder Untersuchungsziele einchecken.
 
-## License
+## Lizenz
 
-The original repository code and original documentation in this project are released under the MIT License. Upstream OSINT Framework material is subject to its own attribution and licensing terms; see [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
+Eigener Code und eigene Dokumentation dieses Projekts werden unter der MIT-Lizenz veröffentlicht. Inhalte des externen OSINT Frameworks unterliegen den jeweiligen Lizenz- und Attribution-Bedingungen. Siehe [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
