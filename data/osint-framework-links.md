@@ -1,0 +1,1180 @@
+# OSINT Framework — generated URL index
+
+> Generated from the official OSINT Framework dataset. Do not edit manually.
+> Source: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
+
+**Indexed resources:** 1167
+
+## Resources
+
+- **AI or Not** — `AI Tools` — https://www.aiornot.com/
+- **Copyleaks** — `AI Tools` — https://copyleaks.com/
+- **Decopy AI Image Detector** — `AI Tools` — https://decopy.ai/ai-image-detector/
+- **DeepAI AI Image Detector** — `AI Tools` — https://deepai.org/ai-image-detector
+- **DeepSeek** — `AI Tools` — https://www.deepseek.com/
+- **DocMind AI** — `AI Tools` — https://github.com/BjornMelin/docmind-ai-llm
+- **DuckDuckGo AI Chat** — `AI Tools` — https://duckduckgo.com/aichat
+- **GPTZero** — `AI Tools` — https://gptzero.me/
+- **Grammarly AI Detector** — `AI Tools` — https://www.grammarly.com/ai-detector
+- **Hive AI Generated Content Detection** — `AI Tools` — https://hivemoderation.com/ai-generated-content-detection
+- **Hugging Face AI Detector** — `AI Tools` — https://huggingface.co/spaces/umm-maybe/AI_Detector
+- **Illuminarty** — `AI Tools` — https://app.illuminarty.ai/
+- **Microsoft Copilot** — `AI Tools` — https://copilot.microsoft.com/
+- **OSINT Analyser** — `AI Tools` — https://github.com/joestanding/osint-analyser
+- **Ollama** — `AI Tools` — https://ollama.com/
+- **TrueMedia** — `AI Tools` — https://www.truemedia.org/
+- **WasItAI** — `AI Tools` — https://wasitai.com/
+- **World Monitor** — `AI Tools` — https://www.worldmonitor.app/
+- **You.com** — `AI Tools` — https://you.com/
+- **Cryptome** — `Archives / Data Leaks` — https://cryptome.org/
+- **Databases.Today** — `Archives / Data Leaks` — https://databases.today/
+- **WikiLeaks** — `Archives / Data Leaks` — https://wikileaks.org/
+- **TV Closed Caption Search** — `Archives / Other Media` — https://archive.org/details/tv
+- **Labeled Faces in the Wild DB** — `Archives / Public Datasets` — https://vis-www.cs.umass.edu/lfw/
+- **Stanford Large Network Dataset Collection** — `Archives / Public Datasets` — https://snap.stanford.edu/data/#amazon
+- **UCI Spambase Data Set** — `Archives / Public Datasets` — https://archive.ics.uci.edu/dataset/94/spambase
+- **Visual Genome** — `Archives / Public Datasets` — https://visualgenome.org/
+- **Anna's Archive** — `Archives / Web` — https://annas-archive.org/
+- **Archive.is** — `Archives / Web` — https://archive.is/
+- **Browsershots** — `Archives / Web` — https://browsershots.org/
+- **Cached Pages** — `Archives / Web` — https://www.cachedpages.com/
+- **Cached View** — `Archives / Web` — https://cachedview.com/
+- **Common Crawl** — `Archives / Web` — https://commoncrawl.org/
+- **Internet Archive: Wayback Machine** — `Archives / Web` — https://web.archive.org/
+- **PDF My URL** — `Archives / Web` — https://pdfmyurl.com/
+- **Screenshots.com** — `Archives / Web` — https://www.screenshots.com/
+- **Textfiles.com** — `Archives / Web` — https://textfiles.com/
+- **UK Web Archive** — `Archives / Web` — https://www.webarchive.org.uk/ukwa/
+- **Wayback Machine Chrome Extension** — `Archives / Web` — https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
+- **Waybackpack (T)** — `Archives / Web` — https://github.com/jsvine/waybackpack
+- **Web Archive-RU** — `Archives / Web` — https://web-arhive.ru/
+- **WebCite** — `Archives / Web` — https://www.webcitation.org:443/query
+- **BitRef** — `Blockchain & Cryptocurrency / Bitcoin` — https://bitref.com/
+- **Bitcoin Who's Who** — `Blockchain & Cryptocurrency / Bitcoin` — https://www.bitcoinwhoswho.com/
+- **Blockonomics** — `Blockchain & Cryptocurrency / Bitcoin` — https://www.blockonomics.co/
+- **Blockr.io** — `Blockchain & Cryptocurrency / Bitcoin` — https://blockr.io/
+- **Blocktrail** — `Blockchain & Cryptocurrency / Bitcoin` — https://www.blocktrail.com/BTC
+- **Orbit (T)** — `Blockchain & Cryptocurrency / Bitcoin` — https://github.com/s0md3v/Orbit
+- **Wallet Explorer** — `Blockchain & Cryptocurrency / Bitcoin` — https://www.walletexplorer.com/
+- **BitRef** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://bitref.com/
+- **Bitcoin Abuse Database** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://bitcoinabuse.com/
+- **Bitcoin Who's Who** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://www.bitcoinwhoswho.com/
+- **Blockchair** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://blockchair.com/
+- **Blockscan** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://blockscan.com/
+- **Etherscan** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://etherscan.io/
+- **OXT.me** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://oxt.me/
+- **Wallet Explorer** — `Blockchain & Cryptocurrency / Chain Analysis Platforms` — https://www.walletexplorer.com/
+- **DefiLlama** — `Blockchain & Cryptocurrency / DeFi & DEX Tracing` — https://defillama.com/
+- **Dune Analytics** — `Blockchain & Cryptocurrency / DeFi & DEX Tracing` — https://dune.com/
+- **Etherscan** — `Blockchain & Cryptocurrency / Ethereum` — https://etherscan.io/
+- **Arkham Intelligence** — `Blockchain & Cryptocurrency / Mixer Tracking` — https://intel.arkm.com/
+- **Breadcrumbs.app** — `Blockchain & Cryptocurrency / Mixer Tracking` — https://www.breadcrumbs.app/
+- **MetaSleuth** — `Blockchain & Cryptocurrency / Mixer Tracking` — https://metasleuth.io/
+- **MistTrack** — `Blockchain & Cryptocurrency / Mixer Tracking` — https://misttrack.io/
+- **OFAC Sanctions List Search** — `Blockchain & Cryptocurrency / Mixer Tracking` — https://sanctionssearch.ofac.treas.gov/
+- **Monero Blocks** — `Blockchain & Cryptocurrency / Monero` — https://localmonero.co/blocks/
+- **XMRChain.net** — `Blockchain & Cryptocurrency / Monero` — https://xmrchain.net/
+- **Bitquery Explorer** — `Blockchain & Cryptocurrency / Multi-Chain Explorers` — https://explorer.bitquery.io/
+- **Blockchair** — `Blockchain & Cryptocurrency / Multi-Chain Explorers` — https://blockchair.com/
+- **Etherscan NFT Tracker** — `Blockchain & Cryptocurrency / NFT Provenance` — https://etherscan.io/nft
+- **OpenSea** — `Blockchain & Cryptocurrency / NFT Provenance` — https://opensea.io/
+- **XMRChain.net (Monero)** — `Blockchain & Cryptocurrency / Privacy Coin Analysis` — https://xmrchain.net/
+- **Zcash Block Explorer** — `Blockchain & Cryptocurrency / Privacy Coin Analysis` — https://blockchair.com/zcash
+- **Blockchair** — `Blockchain & Cryptocurrency / Wallet Clustering & Address Analysis` — https://blockchair.com/
+- **Wallet Explorer** — `Blockchain & Cryptocurrency / Wallet Clustering & Address Analysis` — https://www.walletexplorer.com/
+- **RBA - Business Information Resources** — `Business Records / Additional Resources` — https://www.rba.co.uk/sources/
+- **VAT Number Validation** — `Business Records / Additional Resources` — https://ec.europa.eu/taxation_customs/vies/?locale=en
+- **AnnualReports.com** — `Business Records / Annual Reports` — https://www.annualreports.com/
+- **International Registries** — `Business Records / Annual Reports` — https://www.gov.uk/government/publications/overseas-registries/overseas-registries
+- **Public Register Online** — `Business Records / Annual Reports` — https://www.annualreportservice.com/
+- **Public Register's Annual Report Service** — `Business Records / Annual Reports` — https://www.prars.com/search/alpha/A
+- **AIHIT** — `Business Records / Company Profiles` — https://www.aihitdata.com/
+- **Buzzfile** — `Business Records / Company Profiles` — https://www.buzzfile.com/Home/Basic
+- **Companies House** — `Business Records / Company Profiles` — https://beta.companieshouse.gov.uk/
+- **Companies In The UK** — `Business Records / Company Profiles` — https://www.companiesintheuk.co.uk/
+- **Company Data Rex (EU)** — `Business Records / Company Profiles` — https://www.cdrex.com/
+- **Crunchbase** — `Business Records / Company Profiles` — https://www.crunchbase.com/#/home/index
+- **Europages** — `Business Records / Company Profiles` — https://www.europages.co.uk:443/
+- **LittleSis** — `Business Records / Company Profiles` — https://littlesis.org/
+- **OpenCorporates** — `Business Records / Company Profiles` — https://opencorporates.com/
+- **Orbis Directory** — `Business Records / Company Profiles` — https://orbisdirectory.bvdinfo.com/version-2016121/OrbisDirectory/Companies
+- **Owler (R)** — `Business Records / Company Profiles` — https://www.owler.com/corp
+- **Plonked** — `Business Records / Company Profiles` — https://www.plonked.com/
+- **Rusprofile** — `Business Records / Company Profiles` — https://www.rusprofile.ru/
+- **UK Data** — `Business Records / Company Profiles` — https://ukdata.com/
+- **Vault** — `Business Records / Company Profiles` — https://vault.com/
+- **CVGadget** — `Business Records / Employee Profiles & Resumes` — https://cvgadget.com/
+- **Jobster** — `Business Records / Employee Profiles & Resumes` — https://jobster.com/
+- **LinkedIn** — `Business Records / Employee Profiles & Resumes` — https://www.linkedin.com/
+- **RecruitEm** — `Business Records / Employee Profiles & Resumes` — https://recruitin.net/
+- **XING (R)** — `Business Records / Employee Profiles & Resumes` — https://www.xing.com/
+- **Commercial Register - Worldwide** — `Business Records / General Info & News` — https://www.sg.ch/recht/handelsregister-notariate.html
+- **Global EDGE Resource Directory** — `Business Records / General Info & News` — https://globaledge.msu.edu/global-resources
+- **Google Finance** — `Business Records / General Info & News` — https://www.google.com/finance/
+- **International White Pages** — `Business Records / General Info & News` — https://www.wayp.com/
+- **SEC.gov - EDGAR** — `Business Records / General Info & News` — https://www.sec.gov/submit-filings
+- **UK Companies** — `Business Records / General Info & News` — https://www.gov.uk/get-information-about-a-company
+- **Craigslist** — `Classifieds` — https://charlotte.craigslist.org/
+- **Goofbid** — `Classifieds` — https://www.goofbid.com/
+- **Kijiji - Canada Classifieds** — `Classifieds` — https://www.kijiji.ca:443/
+- **Kleinanzeigen.de** — `Classifieds` — https://www.kleinanzeigen.de/
+- **OfferUp** — `Classifieds` — https://offerup.com/
+- **Quikr - India Classifieds** — `Classifieds` — https://www.quikr.com/
+- **Search Tempest** — `Classifieds` — https://www.searchtempest.com/
+- **SearchAllJunk** — `Classifieds` — https://www.searchalljunk.com/
+- **TotalCraigSearch** — `Classifieds` — https://www.totalcraigsearch.com/
+- **eBay** — `Classifieds` — https://www.ebay.com/
+- **francais-a-londres.org - French Classifieds** — `Classifieds` — https://francaisalondres.com/
+- **AWSBucketDump (T)** — `Cloud Infrastructure / AWS Enumeration` — https://github.com/jordanpotti/AWSBucketDump
+- **Subfinder (T)** — `Cloud Infrastructure / AWS Enumeration` — https://github.com/projectdiscovery/subfinder
+- **cloud_enum (T)** — `Cloud Infrastructure / AWS Enumeration` — https://github.com/initstring/cloud_enum
+- **AADInternals (T)** — `Cloud Infrastructure / Azure/GCP Discovery` — https://github.com/Gerenios/AADInternals
+- **GCPBucketBrute (T)** — `Cloud Infrastructure / Azure/GCP Discovery` — https://github.com/RhinoSecurityLabs/GCPBucketBrute
+- **MicroBurst (T)** — `Cloud Infrastructure / Azure/GCP Discovery` — https://github.com/NetSPI/MicroBurst
+- **ROADtools (T)** — `Cloud Infrastructure / Azure/GCP Discovery` — https://github.com/dirkjanm/roadtools
+- **Stormspotter (T)** — `Cloud Infrastructure / Azure/GCP Discovery` — https://github.com/Azure/Stormspotter
+- **Checkov (T)** — `Cloud Infrastructure / Cloud Configuration Analysis` — https://github.com/bridgecrewio/checkov
+- **Cloud Custodian (T)** — `Cloud Infrastructure / Cloud Configuration Analysis` — https://github.com/cloud-custodian/cloud-custodian
+- **Prowler (T)** — `Cloud Infrastructure / Cloud Configuration Analysis` — https://github.com/prowler-cloud/prowler
+- **ScoutSuite (T)** — `Cloud Infrastructure / Cloud Configuration Analysis` — https://github.com/nccgroup/ScoutSuite
+- **Steampipe (T)** — `Cloud Infrastructure / Cloud Configuration Analysis` — https://github.com/turbot/steampipe
+- **BucketLoot (T)** — `Cloud Infrastructure / S3/Blob Storage` — https://github.com/redhuntlabs/BucketLoot
+- **Public Buckets** — `Cloud Infrastructure / S3/Blob Storage` — https://buckets.grayhatwarfare.com/
+- **S3Scanner (T)** — `Cloud Infrastructure / S3/Blob Storage` — https://github.com/sa7mon/s3scanner
+- **goblob (T)** — `Cloud Infrastructure / S3/Blob Storage` — https://github.com/Macmod/goblob
+- **lazys3 (T)** — `Cloud Infrastructure / S3/Blob Storage` — https://github.com/nahamsec/lazys3
+- **Amass (T)** — `Cloud Infrastructure / SaaS Footprinting` — https://github.com/owasp-amass/amass
+- **SpiderFoot (T)** — `Cloud Infrastructure / SaaS Footprinting` — https://github.com/smicallef/spiderfoot
+- **Sublist3r (T)** — `Cloud Infrastructure / SaaS Footprinting` — https://github.com/aboul3la/Sublist3r
+- **dnsrecon (T)** — `Cloud Infrastructure / SaaS Footprinting` — https://github.com/darkoperator/dnsrecon
+- **theHarvester (T)** — `Cloud Infrastructure / SaaS Footprinting` — https://github.com/laramies/theHarvester
+- **BRB Public Records** — `Compliance & Risk Intelligence` — https://www.brbpub.com/
+- **ICIJ Offshore Leaks Database** — `Compliance & Risk Intelligence / Beneficial Ownership Lookup` — https://offshoreleaks.icij.org/
+- **OCCRP Aleph (R)** — `Compliance & Risk Intelligence / Beneficial Ownership Lookup` — https://aleph.occrp.org/
+- **OpenOwnership** — `Compliance & Risk Intelligence / Beneficial Ownership Lookup` — https://www.openownership.org/en/
+- **GOVDATA - Das Datenportal für Deutschland (German)** — `Compliance & Risk Intelligence` — https://www.govdata.de/
+- **Companies House (R)** — `Compliance & Risk Intelligence / KYC / AML Tools` — https://find-and-update.company-information.service.gov.uk/
+- **NameScan** — `Compliance & Risk Intelligence / KYC / AML Tools` — https://namescan.io
+- **OpenScreening** — `Compliance & Risk Intelligence / KYC / AML Tools` — https://resources.linkurious.com/openscreening
+- **Open-Data-Portal München (German)** — `Compliance & Risk Intelligence` — https://www.opengov-muenchen.de/
+- **Public Records?** — `Compliance & Risk Intelligence` — https://publicrecords.searchsystems.net/
+- **EveryPolitician** — `Compliance & Risk Intelligence / Sanctions / PEP` — https://everypolitician.org/
+- **PepChecker (R)** — `Compliance & Risk Intelligence / Sanctions / PEP` — https://pepchecker.com
+- **Ukraine PEP Register (D)** — `Compliance & Risk Intelligence / Sanctions / PEP` — https://pep.org.ua/en/
+- **EU Sanctions Tool (D)** — `Compliance & Risk Intelligence / Sanctions Screening` — https://sanctions-tool.ec.europa.eu
+- **OFAC Sanctions List Search** — `Compliance & Risk Intelligence / Sanctions Screening` — https://sanctionssearch.ofac.treas.gov/
+- **OpenSanctions** — `Compliance & Risk Intelligence / Sanctions Screening` — https://www.opensanctions.org/
+- **dilisense** — `Compliance & Risk Intelligence / Sanctions Screening` — https://dilisense.com/en
+- **Searchable FCC ID Database** — `Compliance & Risk Intelligence` — https://fccid.io/
+- **The World Bank Open Data Catalog** — `Compliance & Risk Intelligence` — https://datacatalog.worldbank.org/
+- **Australian Cyber Security Centre** — `Cyber Threat Intelligence / Advisories` — https://www.cyber.gov.au/
+- **CVE - MITRE** — `Cyber Threat Intelligence / Advisories` — https://www.cve.org/
+- **CVE Details** — `Cyber Threat Intelligence / Advisories` — https://www.cvedetails.com/
+- **Canadian Centre for Cyber Security** — `Cyber Threat Intelligence / Advisories` — https://www.cyber.gc.ca/
+- **NVD - NIST** — `Cyber Threat Intelligence / Advisories` — https://nvd.nist.gov/
+- **OSV Vulnerability Library** — `Cyber Threat Intelligence / Advisories` — https://osv.dev/list
+- **OWASP** — `Cyber Threat Intelligence / Advisories` — https://www.owasp.org/index.php/Main_Page
+- **Secunia** — `Cyber Threat Intelligence / Advisories` — https://secuniaresearch.flexerasoftware.com/community/research/
+- **SecurityFocus** — `Cyber Threat Intelligence / Advisories` — https://www.securityfocus.com/bid
+- **Vulert: Updated Open Source Vulnerability Database** — `Cyber Threat Intelligence / Advisories` — https://vulert.com/vuln-db
+- **ImmuniWeb** — `Cyber Threat Intelligence / Attack Surface / Security Testing` — https://www.immuniweb.com/
+- **Default Password Lookup Utility** — `Cyber Threat Intelligence / Default Passwords` — https://fortypoundhead.com/tools_dpw.asp
+- **Default Passwords DB** — `Cyber Threat Intelligence / Default Passwords` — https://cirt.net/passwords/
+- **Default Router Passwords** — `Cyber Threat Intelligence / Default Passwords` — https://www.routerpasswords.com/
+- **Default passwords list** — `Cyber Threat Intelligence / Default Passwords` — https://default-password.info/
+- **Hashes.org** — `Cyber Threat Intelligence / Default Passwords` — https://hashes.org/
+- **Open Sez Me Default Passwords** — `Cyber Threat Intelligence / Default Passwords` — https://open-sez.me/
+- **Phenoelit Default Password List** — `Cyber Threat Intelligence / Default Passwords` — https://phenoelit.org/dpl/dpl.html
+- **Exploit DB** — `Cyber Threat Intelligence / Exploits` — https://www.exploit-db.com/
+- **Packet Storm** — `Cyber Threat Intelligence / Exploits` — https://packetstormsecurity.com/
+- **Cacador** — `Cyber Threat Intelligence / IOC Tools` — https://github.com/sroberts/cacador
+- **IOC Parser** — `Cyber Threat Intelligence / IOC Tools` — https://github.com/armbues/ioc_parser
+- **Jager** — `Cyber Threat Intelligence / IOC Tools` — https://github.com/sroberts/jager
+- **Mimir** — `Cyber Threat Intelligence / IOC Tools` — https://github.com/NullArray/Mimir
+- **ThreatIngestor (T)** — `Cyber Threat Intelligence / IOC Tools` — https://github.com/InQuest/ThreatIngestor
+- **ThreatPinch Lookup** — `Cyber Threat Intelligence / IOC Tools` — https://github.com/cloudtracer/ThreatPinchLookup
+- **iocextract (T)** — `Cyber Threat Intelligence / IOC Tools` — https://github.com/InQuest/iocextract
+- **PhishStats** — `Cyber Threat Intelligence / Phishing` — https://phishstats.info/
+- **PhishTank** — `Cyber Threat Intelligence / Phishing` — https://www.phishtank.com/
+- **SecAI.ai** — `Cyber Threat Intelligence / Phishing` — https://secai.ai/research
+- **https://openphish.com/feed.txt** — `Cyber Threat Intelligence / Phishing` — https://openphish.com/feed.txt
+- **MITRE ATT&CK** — `Cyber Threat Intelligence / TTPs` — https://attack.mitre.org/
+- **Malware Exploit TTP Database** — `Cyber Threat Intelligence / TTPs` — https://www.pwnmalw.re/
+- **Mitre TTPs** — `Cyber Threat Intelligence / TTPs` — https://attack.mitre.org/
+- **Global Terrorism Database** — `Cyber Threat Intelligence / Terrorism & Extremism / Academic Research` — https://www.start.umd.edu/research-projects/global-terrorism-database-gtd
+- **START Consortium for the Study of Terrorism and Responses to Terrorism** — `Cyber Threat Intelligence / Terrorism & Extremism / Academic Research` — https://www.start.umd.edu/
+- **CSIS Warfare, Irregular Threats, and Terrorism Program** — `Cyber Threat Intelligence / Terrorism & Extremism / Research Centers` — https://www.csis.org/programs/warfare-irregular-threats-and-terrorism-program
+- **Institute for Strategic Dialogue** — `Cyber Threat Intelligence / Terrorism & Extremism / Research Centers` — https://www.isdglobal.org/
+- **RAND Terrorism Research** — `Cyber Threat Intelligence / Terrorism & Extremism / Research Centers` — https://www.rand.org/topics/terrorism.html
+- **OFAC Sanctions List Search** — `Cyber Threat Intelligence / Terrorism & Extremism / Sanctions & Watchlists` — https://sanctionssearch.ofac.treas.gov/
+- **OpenSanctions** — `Cyber Threat Intelligence / Terrorism & Extremism / Sanctions & Watchlists` — https://www.opensanctions.org/
+- **UN Security Council Consolidated List** — `Cyber Threat Intelligence / Terrorism & Extremism / Sanctions & Watchlists` — https://main.un.org/securitycouncil/en/content/un-sc-consolidated-list
+- **Terrorist Finance Tracking Program** — `Cyber Threat Intelligence / Terrorism & Extremism / Terrorist Financing` — https://home.treasury.gov/policy-issues/terrorism-and-illicit-finance/terrorist-finance-tracking-program-tftp
+- **APTnotes** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://github.com/aptnotes/data
+- **AlienVault OTX** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://otx.alienvault.com/
+- **Bot Scout** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://botscout.com/
+- **Cymon Open Threat Intelligence** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://cymon.io/
+- **FireHOL IP Lists ** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://iplists.firehol.org/
+- **HoneyDB** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://honeydb.io/
+- **IBM X-Force Exchange** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://exchange.xforce.ibmcloud.com/
+- **Malpedia** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://malpedia.caad.fkie.fraunhofer.de/
+- **Maltiverse** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://maltiverse.com/
+- **Malware Information Sharing Platform** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://www.misp-project.org/
+- **Malware Patrol** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://www.malwarepatrol.net/
+- **Mr.Looquer IOC Feed - 1st Dual Stack Threat Feed** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://iocfeed.mrlooquer.com/
+- **Project Honey Pot** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://www.projecthoneypot.org/
+- **Pulsedive** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://pulsedive.com/
+- **REScure Cyber Threat Intelligence Project** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://rescure.me/
+- **Scam Database** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://www.scamdb.net/
+- **hostintel - keithjjones Github** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://github.com/keithjjones/hostintel
+- **massive-octo-spice - csirtgadgets Github** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://github.com/csirtgadgets/massive-octo-spice
+- **mlsecproject / combine** — `Cyber Threat Intelligence / Threat Feeds & Platforms` — https://github.com/mlsecproject/combine
+- **Freenet Project (T)** — `Dark Web / Clients` — https://www.hyphanet.org/
+- **I2P Anonymous Network (T)** — `Dark Web / Clients` — https://i2p.net/
+- **Tor Download (T)** — `Dark Web / Clients` — https://www.torproject.org/download/
+- **Hunchly Hidden Services Report** — `Dark Web / Discovery` — https://darkweb.hunch.ly/
+- **Onioff** — `Dark Web / Discovery` — https://github.com/k4m4/onioff
+- **Onion Investigator** — `Dark Web / Discovery` — https://oint.ctrlbox.com/
+- **OnionScan** — `Dark Web / Discovery` — https://github.com/s-rah/onionscan
+- **Tor Scan** — `Dark Web / Discovery` — https://www.torscan.io/
+- **TorBot** — `Dark Web / Discovery` — https://github.com/DedSecInside/TorBot
+- **docker-onion-nmap (T)** — `Dark Web / Discovery` — https://github.com/milesrichardson/docker-onion-nmap
+- **Reddit Darknet** — `Dark Web / General Info` — https://www.reddit.com/r/darknet/
+- **Reddit Deep Web** — `Dark Web / General Info` — https://www.reddit.com/r/deepweb/
+- **Reddit Onions** — `Dark Web / General Info` — https://www.reddit.com/r/onions/
+- **IACA Dark Web Investigation Support** — `Dark Web` — https://iaca-darkweb-tools.com/
+- **Hidden Wiki** — `Dark Web / TOR Directories` — https://thehiddenwiki.org/
+- **Ahmia** — `Dark Web / TOR Search` — https://ahmia.fi/
+- **Onion Cab** — `Dark Web / TOR Search` — https://onion.cab/
+- **Web O Proxy** — `Dark Web` — https://weboproxy.com/
+- **AYI.com** — `Dating` — https://www.ayichat.com
+- **AdultFriendFinder** — `Dating` — https://www.adultfriendfinder.com
+- **Badoo** — `Dating` — https://badoo.com
+- **BeautifulPeople.com** — `Dating` — https://www.beautifulpeople.com/en-US
+- **Bumble (R)** — `Dating` — https://bumble.com/
+- **Farmers Only** — `Dating` — https://www.farmersonly.com/
+- **Hinge** — `Dating` — https://hinge.co/en-gb
+- **Meetup** — `Dating` — https://www.meetup.com/
+- **Plenty Of Fish.com** — `Dating` — https://www.pof.com/
+- **Spark.com** — `Dating` — https://spark.com
+- **Tantan (R)** — `Dating` — https://int.tantanapp.com
+- **Tinder (R)** — `Dating` — https://tinder.com/
+- **eHarmony** — `Dating` — https://www.eharmony.com/
+- **DeepFake-Detect** — `Disinformation & Media Verification / Deepfake Detection` — https://github.com/dessa-oss/DeepFake-Detection
+- **DeepFake-Image-Detection** — `Disinformation & Media Verification / Deepfake Detection` — https://github.com/rmkemker/DeepFake-Image-Detection
+- **DeepSafe** — `Disinformation & Media Verification / Deepfake Detection` — https://github.com/siddharthksah/DeepSafe
+- **DeepfakeBench** — `Disinformation & Media Verification / Deepfake Detection` — https://github.com/SCLBD/DeepfakeBench
+- **DeepfakeDetector** — `Disinformation & Media Verification / Deepfake Detection` — https://github.com/TRahulsingh/DeepfakeDetector
+- **FaceForensics++** — `Disinformation & Media Verification / Deepfake Detection` — https://www.faceforensics.com/
+- **InVID-WeVerify Verification Plugin** — `Disinformation & Media Verification / Deepfake Detection` — https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
+- **TruthScan Deepfake Detector** — `Disinformation & Media Verification / Deepfake Detection` — https://truthscan.com/
+- **Duke Reporters' Lab** — `Disinformation & Media Verification / Fact-checking Tools` — https://reporterslab.org/
+- **Hoaxy** — `Disinformation & Media Verification / Fact-checking Tools` — https://hoaxy.osome.iu.edu/
+- **PolitiFact** — `Disinformation & Media Verification / Fact-checking Tools` — https://www.politifact.com/
+- **SciCheck** — `Disinformation & Media Verification / Fact-checking Tools` — https://factcheck.org/scicheck/
+- **Snopes** — `Disinformation & Media Verification / Fact-checking Tools` — https://www.snopes.com/
+- **Stop Fake Tools** — `Disinformation & Media Verification / Fact-checking Tools` — http://www.stopfake.org/
+- **ImgOps** — `Disinformation & Media Verification / Reverse Media Search` — https://imgops.com/
+- **TinEye Reverse Image Search** — `Disinformation & Media Verification / Reverse Media Search` — https://tineye.com/
+- **FotoForensics** — `Disinformation & Media Verification / Source Verification` — https://fotoforensics.com/
+- **Verification Handbook** — `Disinformation & Media Verification / Source Verification` — https://verificationhandbook.com/
+- **Verification Junkie** — `Disinformation & Media Verification / Source Verification` — https://verificationjunkie.com/
+- **Google Street View - Hyperlapse** — `Documentation / Evidence Capture / Map Locations` — https://github.com/TeehanLax/Hyperlapse.js
+- **ZeeMaps** — `Documentation / Evidence Capture / Map Locations` — https://www.zeemaps.com/
+- **FRAPS (T)** — `Documentation / Evidence Capture / Screen Capture` — https://fraps.com/
+- **Greenshot (T)** — `Documentation / Evidence Capture / Screen Capture` — https://getgreenshot.org/
+- **ShareX (T)** — `Documentation / Evidence Capture / Screen Capture` — https://getsharex.com/
+- **Timeline JS3** — `Documentation / Evidence Capture` — https://timeline.knightlab.com/
+- **Archive.is** — `Documentation / Evidence Capture / Web Browsing` — https://archive.is/
+- **Burp Suite (T)** — `Documentation / Evidence Capture / Web Browsing` — https://portswigger.net/burp/download.html
+- **EZR OSINT Sidebar (T)** — `Documentation / Evidence Capture / Web Browsing` — https://chromewebstore.google.com/detail/ezr-osint-sidebar/joagbbgciboooipadijeaoidjjigdmof
+- **Fiddler (T)** — `Documentation / Evidence Capture / Web Browsing` — https://www.telerik.com/download/fiddler
+- **Forensic OSINT (T)** — `Documentation / Evidence Capture / Web Browsing` — https://www.forensicosint.com/
+- **Full Page Screen Capture Chrome Extension (T)** — `Documentation / Evidence Capture / Web Browsing` — https://github.com/mrcoles/full-page-screen-capture-chrome-extension
+- **Page2Images (T)** — `Documentation / Evidence Capture / Web Browsing` — https://www.page2images.com/URL-Live-Website-Screenshot-Generator
+- **Snapper (T)** — `Documentation / Evidence Capture / Web Browsing` — https://github.com/dxa4481/Snapper
+- **Web Page Saver** — `Documentation / Evidence Capture / Web Browsing` — https://www.magnetforensics.com/resources/web-page-saver/
+- **Alexa Site Statistics** — `Domain Name / Analytics` — https://alexa.amazon.com/about
+- **Alexa Top 500 Global Sites** — `Domain Name / Analytics` — https://alexa.amazon.com/about
+- **BuiltWith** — `Domain Name / Analytics` — https://builtwith.com/
+- **Cisco Umbrella Popularity List** — `Domain Name / Analytics` — https://s3-us-west-1.amazonaws.com/umbrella-static/index.html
+- **ClearWebStats.com** — `Domain Name / Analytics` — https://www.clearwebstats.com/
+- **Ewhois** — `Domain Name / Analytics` — https://www.ewhois.com/
+- **Keyword Density** — `Domain Name / Analytics` — https://tools.seobook.com/general/keyword-density/
+- **Moonsearch** — `Domain Name / Analytics` — https://moonsearch.com/
+- **Open Site Explorer** — `Domain Name / Analytics` — https://moz.com/link-explorer
+- **PubDB** — `Domain Name / Analytics` — https://pub-db.com/
+- **SEMrush** — `Domain Name / Analytics` — https://www.semrush.com/
+- **SimilarWeb** — `Domain Name / Analytics` — https://www.similarweb.com/
+- **SiteSleuth** — `Domain Name / Analytics` — https://www.sitesleuth.io/
+- **Sitedossier** — `Domain Name / Analytics` — https://www.sitedossier.com/
+- **Siteliner** — `Domain Name / Analytics` — https://www.siteliner.com/
+- **SpyOnWeb** — `Domain Name / Analytics` — https://www.spyonweb.com/
+- **StatsCrop** — `Domain Name / Analytics` — https://www.statscrop.com/
+- **Visual Site Mapper** — `Domain Name / Analytics` — https://github.com/alentum/sitemapper-nodejs
+- **Wappalyzer (T)** — `Domain Name / Analytics` — https://www.wappalyzer.com/
+- **WhatWeb** — `Domain Name / Analytics` — https://github.com/urbanadventurer/WhatWeb
+- **Censys** — `Domain Name / Certificate Search` — https://censys.io/
+- **CertKit - Certificate Transparency Log Search** — `Domain Name / Certificate Search` — https://www.certkit.io/tools/ct-logs/
+- **Google's Certificate Transparency** — `Domain Name / Certificate Search` — https://www.certificate-transparency.org/known-logs
+- **Netlas.io** — `Domain Name / Certificate Search` — https://app.netlas.io/certs/
+- **Shodan** — `Domain Name / Certificate Search` — https://www.shodan.io/
+- **Spyse** — `Domain Name / Certificate Search` — https://spyse.com/search/certificate
+- **certgraph (T)** — `Domain Name / Certificate Search` — https://github.com/lanrat/certgraph
+- **crt.sh - Certificate Search** — `Domain Name / Certificate Search` — https://crt.sh/?
+- **Change Detection** — `Domain Name / Change Detection` — https://changedetection.io/
+- **ChangeDetect** — `Domain Name / Change Detection` — https://changedetection.io/
+- **Follow That Page** — `Domain Name / Change Detection` — https://www.followthatpage.com/
+- **UPcheck** — `Domain Name / Change Detection` — https://upcheck.online/
+- **Urlwatch** — `Domain Name / Change Detection` — https://github.com/thp/urlwatch
+- **VisualPing** — `Domain Name / Change Detection` — https://visualping.io/
+- **WatchThatPage** — `Domain Name / Change Detection` — https://watchthatpage.com/
+- **DNSSEC Analyzer** — `Domain Name / DNSSEC` — https://dnssec-analyzer.verisignlabs.com/
+- **DNSViz** — `Domain Name / DNSSEC` — https://dnsviz.net/
+- **AnalyzeID** — `Domain Name / Discovery` — https://analyzeid.com/
+- **BuiltWith** — `Domain Name / Discovery` — https://builtwith.com/
+- **Criminal IP Search** — `Domain Name / Discovery` — https://www.criminalip.io/
+- **Daily DNS Changes** — `Domain Name / Discovery` — https://dailychanges.domaintools.com/
+- **Kraken (T)** — `Domain Name / Discovery` — https://github.com/Sw4mpf0x/Kraken
+- **Netlas.io** — `Domain Name / Discovery` — https://app.netlas.io/
+- **Online Nikto scanner** — `Domain Name / Discovery` — https://nikto.online/
+- **Redirect Detective** — `Domain Name / Discovery` — https://redirectdetective.com/
+- **Shodan** — `Domain Name / Discovery` — https://www.shodan.io/
+- **Sitediff (T)** — `Domain Name / Discovery` — https://github.com/digininja/sitediff
+- **Wappalyzer** — `Domain Name / Discovery` — https://www.wappalyzer.com/
+- **ZoomEye.ai** — `Domain Name / Discovery` — https://www.zoomeye.org/
+- **urlDNA** — `Domain Name / Discovery` — https://urldna.io
+- **urlscan.io** — `Domain Name / Discovery` — https://urlscan.io/search/#*
+- **Blackweb** — `Domain Name / Domain Blacklists` — https://github.com/maravento/blackweb
+- **Critical Stack Intel (R)** — `Domain Name / Domain Blacklists` — https://intel.criticalstack.com/
+- **DNS Sinkhole** — `Domain Name / Domain Blacklists` — https://malc0de.com/bl/
+- **DNS-BH Malware Domain Blocklist** — `Domain Name / Domain Blacklists` — https://www.malwaredomains.com/wordpress/?page_id=66
+- **Email Domain Validation** — `Domain Name / Domain Blacklists` — https://www.mailboxvalidator.com/domain
+- **Malware Domain List** — `Domain Name / Domain Blacklists` — https://www.malwaredomainlist.com/hostslist/hosts.txt
+- **Malware Domains Blacklist** — `Domain Name / Domain Blacklists` — https://mirror1.malwaredomains.com/files/domains.txt
+- **MalwareURL (R)** — `Domain Name / Domain Blacklists` — https://www.malwareurl.com/index.php
+- **Shadowserver Foundation** — `Domain Name / Domain Blacklists` — https://www.shadowserver.org/
+- **Threatexpert.com Malicious URLs** — `Domain Name / Domain Blacklists` — https://www.networksec.org/grabbho/block.txt
+- **ZeuS Tracker** — `Domain Name / Domain Blacklists` — https://zeustracker.abuse.ch/blocklist.php
+- **Zeus C2 Tracker** — `Domain Name / Domain Blacklists` — https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+- **scumware.org** — `Domain Name / Domain Blacklists` — https://www.scumware.org/
+- **DNS Dumpster** — `Domain Name / PassiveDNS` — https://dnsdumpster.com/
+- **Deteque (R)** — `Domain Name / PassiveDNS` — https://www.deteque.com/
+- **Mnemonic** — `Domain Name / PassiveDNS` — https://passivedns.mnemonic.no/
+- **Google Safe Browsing** — `Domain Name / Report Malicious Sites` — https://safebrowsing.google.com/
+- **Windows Defender Security Intelligence (WDSI)** — `Domain Name / Report Malicious Sites` — https://www.microsoft.com/en-us/wdsi
+- **AVG Threat Labs** — `Domain Name / Reputation` — https://www.avg.com/en/signal/website-safety
+- **AlienVault Open Threat Exchange** — `Domain Name / Reputation` — https://otx.alienvault.com/browse/pulses/
+- **BlueCoat WebPulse** — `Domain Name / Reputation` — https://sitereview.bluecoat.com/sitereview.jsp
+- **Cisco Talos** — `Domain Name / Reputation` — https://talosintelligence.com/
+- **Deepviz Domain Search** — `Domain Name / Reputation` — https://search.deepviz.com/
+- **FortiGuard Reputation Service** — `Domain Name / Reputation` — https://fortiguard.com/iprep
+- **Google Safe Browsing API** — `Domain Name / Reputation` — https://developers.google.com/safe-browsing/?csw=1
+- **Joe Sandbox Url Analyzer** — `Domain Name / Reputation` — https://www.url-analyzer.net/
+- **Malware Domain List** — `Domain Name / Reputation` — https://www.malwaredomainlist.com/mdl.php
+- **Sucuri SiteCheck** — `Domain Name / Reputation` — https://sitecheck.sucuri.net/
+- **ThreatMiner.org** — `Domain Name / Reputation` — https://www.threatminer.org/
+- **Trend Micro Site Safety Center** — `Domain Name / Reputation` — https://global.sitesafety.trendmicro.com/
+- **URL Void** — `Domain Name / Reputation` — https://www.urlvoid.com/
+- **UrlQuery.net** — `Domain Name / Reputation` — https://urlquery.net/
+- **WatchGuard ReputationAuthority** — `Domain Name / Reputation` — https://www.reputationauthority.org/
+- **Web Inspector Online Scan** — `Domain Name / Reputation` — https://www.webinspector.com/website-malware-scanner/
+- **Webroot BrightCloud URL/IP Lookup** — `Domain Name / Reputation` — https://www.brightcloud.com/tools/url-ip-lookup.php
+- **Zscaler Zulu URL Risk Analyzer** — `Domain Name / Reputation` — https://zulu.zscaler.com/
+- **vURL Online** — `Domain Name / Reputation` — https://vurldissect.co.uk/
+- **Google Trends** — `Domain Name / Social Analysis` — https://trends.google.com/trends/
+- **AltDNS (T)** — `Domain Name / Subdomains` — https://github.com/infosec-au/altdns
+- **Aquatone (T)** — `Domain Name / Subdomains` — https://github.com/michenriksen/aquatone
+- **Bluto (T)** — `Domain Name / Subdomains` — https://github.com/darryllane/Bluto
+- **DNS Recon (T)** — `Domain Name / Subdomains` — https://github.com/darkoperator/dnsrecon
+- **Fierce Domain Scanner (T)** — `Domain Name / Subdomains` — https://github.com/davidpepper/fierce-domain-scanner
+- **FindSubDomains** — `Domain Name / Subdomains` — https://findsubdomains.com/
+- **Gobuster (T)** — `Domain Name / Subdomains` — https://github.com/OJ/gobuster
+- **Google Subdomains (D)** — `Domain Name / Subdomains` — https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E
+- **Netlas.io** — `Domain Name / Subdomains` — https://app.netlas.io/domains/
+- **OWASP Maryam (T)** — `Domain Name / Subdomains` — https://github.com/saeeddhqan/Maryam
+- **Pentest-tools.com Subdomains** — `Domain Name / Subdomains` — https://pentest-tools.com/information-gathering/find-subdomains-of-domain
+- **Recon-ng (T)** — `Domain Name / Subdomains` — https://github.com/lanmaster53/recon-ng
+- **SecLists DNS Subdomains (T)** — `Domain Name / Subdomains` — https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS
+- **Sublist3r** — `Domain Name / Subdomains` — https://github.com/aboul3la/Sublist3r
+- **SynapsInt** — `Domain Name / Subdomains` — https://synapsint.com
+- **XRay** — `Domain Name / Subdomains` — https://github.com/evilsocket/xray
+- **dnspop (T)** — `Domain Name / Subdomains` — https://github.com/bitquark/dnspop
+- **gdns (T)** — `Domain Name / Subdomains` — https://github.com/hrbrmstr/gdns
+- **theHarvester (T)** — `Domain Name / Subdomains` — https://github.com/laramies/theHarvester
+- **Belati (T)** — `Domain Name / Tools` — https://github.com/aancw/Belati
+- **Burp Suite (T)** — `Domain Name / Tools` — https://portswigger.net/burp
+- **EyeWitness (T)** — `Domain Name / Tools` — https://github.com/ChrisTruncer/EyeWitness
+- **Hunting-New-Registered-Domains (T)** — `Domain Name / Tools` — https://github.com/gfek/Hunting-New-Registered-Domains
+- **International Domain Name Conversion Tool** — `Domain Name / Tools` — https://mct.verisign-grs.com/
+- **Online Nikto scanner** — `Domain Name / Tools` — https://nikto.online/
+- **Catphish (T)** — `Domain Name / Typosquatting` — https://github.com/ring0lab/catphish
+- **DNS Twist (T)** — `Domain Name / Typosquatting` — https://github.com/elceef/dnstwist
+- **URLCrazy (T)** — `Domain Name / Typosquatting` — https://www.morningstarsecurity.com/research/urlcrazy
+- **dnstwister** — `Domain Name / Typosquatting` — https://dnstwister.report/
+- **CheckShortURL** — `Domain Name / URL Expanders` — https://checkshorturl.com/
+- **KnowURL** — `Domain Name / URL Expanders` — https://www.knowurl.com/
+- **Link Expander** — `Domain Name / URL Expanders` — https://www.linkexpander.com/
+- **URL Expander** — `Domain Name / URL Expanders` — https://urlex.org/
+- **Where Does This Link Go?** — `Domain Name / URL Expanders` — https://wheregoes.com/
+- **Zone-H.org** — `Domain Name / Vulnerabilities / Disclosure Sites` — https://zone-h.org/archive
+- **RobotsDisallowed** — `Domain Name / Vulnerabilities` — https://github.com/danielmiessler/RobotsDisallowed
+- **Online Nikto scanner** — `Domain Name / Vulnerabilities / Scanners` — https://nikto.online/
+- **Sn1per (T)** — `Domain Name / Vulnerabilities / Scanners` — https://github.com/1N3/Sn1per
+- **Web Data Exposure Scanner (T)** — `Domain Name / Vulnerabilities / Scanners` — https://github.com/eduardoit/web-data-exposure-scanner
+- **DNSstuff** — `Domain Name / Whois Records` — https://www.dnsstuff.com/freetools
+- **Daily DNS Changes** — `Domain Name / Whois Records` — https://dailychanges.domaintools.com/
+- **Domain Dossier** — `Domain Name / Whois Records` — https://centralops.net/co/DomainDossier.aspx
+- **DomainTools Whois** — `Domain Name / Whois Records` — https://whois.domaintools.com/
+- **Domaincrawler.com** — `Domain Name / Whois Records` — https://domaincrawler.com/
+- **IP2WHOIS** — `Domain Name / Whois Records` — https://www.ip2whois.com
+- **MarkMonitor Whois Search** — `Domain Name / Whois Records` — https://domains.markmonitor.com/whois/
+- **Netlas.io** — `Domain Name / Whois Records` — https://app.netlas.io/whois_domains/
+- **Robtex (R)** — `Domain Name / Whois Records` — https://robtex.com/
+- **SWITCH Internet Domains Whois (.ch)** — `Domain Name / Whois Records` — https://www.nic.ch/whois/
+- **ViewDNS.info** — `Domain Name / Whois Records` — https://viewdns.info/
+- **Website Informer** — `Domain Name / Whois Records` — https://website.informer.com/
+- **Who.is** — `Domain Name / Whois Records` — https://who.is/
+- **Whois AMPed** — `Domain Name / Whois Records` — https://whoisamped.com/
+- **Whois ARIN** — `Domain Name / Whois Records` — https://whois.arin.net/ui/advanced.jsp
+- **Whoisology** — `Domain Name / Whois Records` — https://whoisology.com/#advanced
+- **domainIQ** — `Domain Name / Whois Records` — https://www.domainiq.com/
+- **easyWhois** — `Domain Name / Whois Records` — https://www.easywhois.com/
+- **DeHashed (R)** — `Email Address / Breach Data` — https://dehashed.com/
+- **Have I been pwned?** — `Email Address / Breach Data` — https://haveibeenpwned.com/
+- **Hudson Rock** — `Email Address / Breach Data` — https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
+- **Vigilante.pw** — `Email Address / Breach Data` — https://www.vigilante.pw/
+- **Email Format** — `Email Address / Common Email Formats` — https://www.email-format.com/
+- **Email Permutator** — `Email Address / Common Email Formats` — https://metricsparrow.com/toolkit/email-permutator/
+- **Email to Address (R)** — `Email Address / Email Search` — https://www.melissa.com/
+- **Epieos Email Tool** — `Email Address / Email Search` — https://tools.epieos.com/email.php
+- **GHunt (T)** — `Email Address / Email Search` — https://github.com/mxrch/GHunt
+- **Holehe (T)** — `Email Address / Email Search` — https://github.com/megadose/holehe
+- **Hunter** — `Email Address / Email Search` — https://hunter.io/
+- **Infoga (T)** — `Email Address / Email Search` — https://github.com/m4ll0k/infoga
+- **OSINT Industries** — `Email Address / Email Search` — https://www.osint.industries/
+- **Skymem** — `Email Address / Email Search` — https://www.skymem.info/
+- **Sylva Identity Discovery (T)** — `Email Address / Email Search` — https://sylva.pfeister.dev/
+- **ThatsThem** — `Email Address / Email Search` — https://thatsthem.com/reverse-email-lookup
+- **VoilaNorbert** — `Email Address / Email Search` — https://www.voilanorbert.com/
+- **breach.vip** — `Email Address / Email Search` — https://breach.vip/
+- **theHarvester (T)** — `Email Address / Email Search` — https://github.com/laramies/theHarvester
+- **Burner Email Providers (T)** — `Email Address / Email Verification` — https://github.com/wesbos/burner-email-providers
+- **Disposable Email Domains (T)** — `Email Address / Email Verification` — https://github.com/disposable-email-domains/disposable-email-domains
+- **Disposable Emails Registry** — `Email Address / Email Verification` — https://disposable-emails.github.io/
+- **Email Reputation** — `Email Address / Email Verification` — https://emailrep.io/
+- **MailScrap** — `Email Address / Email Verification` — https://mailscrap.com/
+- **MailboxValidator** — `Email Address / Email Verification` — https://www.mailboxvalidator.com/demo
+- **Reacher Demo** — `Email Address / Email Verification` — https://reacher.email
+- **Reacher Github (T)** — `Email Address / Email Verification` — https://github.com/reacherhq/check-if-email-exists
+- **Read Notify** — `Email Address / Email Verification` — https://www.readnotify.com/
+- **VerifyEmail (R$)** — `Email Address / Email Verification` — https://emailable.com/
+- **MxToolbox** — `Email Address / Mail Blacklists` — https://mxtoolbox.com/
+- **ClearImage Barcode Reader** — `Encoding / Decoding / Barcodes / QR` — https://online-barcode-reader.inliteresearch.com/
+- **CyberChef** — `Encoding / Decoding` — https://gchq.github.io/CyberChef/
+- **Functions Online** — `Encoding / Decoding` — https://www.functions-online.com/
+- **Firebug (T)** — `Encoding / Decoding / Javascript` — https://getfirebug.com/downloads/
+- **JS Beautifier** — `Encoding / Decoding / Javascript` — https://beautifier.io/
+- **JS NICE** — `Encoding / Decoding / Javascript` — https://jsnice.org/
+- **JavaScript Deobfuscator (T)** — `Encoding / Decoding / Javascript` — https://addons.mozilla.org/en-US/firefox/addon/javascript-deobfuscator/
+- **Kahu Revelo (T)** — `Encoding / Decoding / Javascript` — https://www.kahusecurity.com/tools/
+- **SpiderMonkey (T)** — `Encoding / Decoding / Javascript` — https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
+- **DDecode - PHP Decoder** — `Encoding / Decoding / PHP` — https://ddecode.com/phpdecoder/
+- **Balbuzard (T)** — `Encoding / Decoding / XOR / Python` — https://github.com/decalage2/balbuzard
+- **NoMoreXOR.py (T)** — `Encoding / Decoding / XOR / Python` — https://github.com/hiddenillusion/NoMoreXOR
+- **XORBruteForcer.py (T)** — `Encoding / Decoding / XOR / Python` — https://github.com/jesparza/scripts/blob/master/xorBruteForcer.py
+- **iheartxor.py (T)** — `Encoding / Decoding / XOR / Python` — https://hooked-on-mnemonics.blogspot.com/p/iheartxor.html
+- **XORSearch & XORStrings (T)** — `Encoding / Decoding / XOR / Unix` — https://blog.didierstevens.com/programs/xorsearch/
+- **unxor (T)** — `Encoding / Decoding / XOR / Unix` — https://github.com/tomchop/unxor
+- **xortool (T)** — `Encoding / Decoding / XOR / Unix` — https://github.com/hellman/xortool
+- **Kahu Converter Utilities (T)** — `Encoding / Decoding / XOR / Windows` — https://www.kahusecurity.com/tools/
+- **Baidu Maps** — `Geolocation Tools / Maps` — https://map.baidu.com/
+- **Bing Maps** — `Geolocation Tools / Maps` — https://www.bing.com/maps
+- **Batch Geocoding** — `Geolocation Tools / Maps / Coordinates` — https://www.doogal.co.uk/BatchGeocoding
+- **Batch Reverse Geocoding** — `Geolocation Tools / Maps / Coordinates` — https://www.doogal.co.uk/BatchReverseGeocoding
+- **GPSVisualizer** — `Geolocation Tools / Maps / Coordinates` — https://www.gpsvisualizer.com/geocode
+- **Military Grid Reference System Coordinates** — `Geolocation Tools / Maps / Coordinates` — https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html
+- **Corona** — `Geolocation Tools / Maps` — https://corona.cast.uark.edu/
+- **Dual Maps** — `Geolocation Tools / Maps` — https://data.mashedworld.com/dualmaps/map.htm
+- **EarthExplorer** — `Geolocation Tools / Maps` — https://earthexplorer.usgs.gov/
+- **Flash Earth** — `Geolocation Tools / Maps` — https://zoom.earth/
+- **Astrometry** — `Geolocation Tools / Maps / Geolocation Tools` — https://nova.astrometry.net/
+- **GeoSpy** — `Geolocation Tools / Maps / Geolocation Tools` — https://geospy.ai/
+- **SunCalc** — `Geolocation Tools / Maps / Geolocation Tools` — https://suncalc.net/
+- **SunCalc** — `Geolocation Tools / Maps / Geolocation Tools` — https://suncalc.org/
+- **Google Earth** — `Geolocation Tools / Maps` — https://earth.google.com/web/
+- **Google Earth Overlays** — `Geolocation Tools / Maps` — https://www.mgmaps.com/kml/
+- **Google Maps** — `Geolocation Tools / Maps` — https://www.google.com/maps/
+- **Google Maps Update Alerts** — `Geolocation Tools / Maps` — https://followyourworld.appspot.com/
+- **HERE Maps** — `Geolocation Tools / Maps` — https://maps.here.com/
+- **Hiking & Biking Map** — `Geolocation Tools / Maps` — https://hikebikemap.org/
+- **Historic Aerials** — `Geolocation Tools / Maps` — https://www.historicaerials.com/?javascript=&
+- **Hivemapper** — `Geolocation Tools / Maps` — https://hivemapper.com/
+- **Instant Google Street View** — `Geolocation Tools / Maps` — https://www.instantstreetview.com/
+- **LandsatLook Viewer** — `Geolocation Tools / Maps` — https://landsatlook.usgs.gov/
+- **Beholder** — `Geolocation Tools / Maps / Map Reporting Tools` — https://beholder.infragard.io/
+- **Google Maps Streetview Player** — `Geolocation Tools / Maps / Map Reporting Tools` — https://brianfolts.com/driver/
+- **Hyperlapse (T)** — `Geolocation Tools / Maps / Map Reporting Tools` — https://github.com/TeehanLax/Hyperlapse.js
+- **LiveUaMap** — `Geolocation Tools / Maps / Map Reporting Tools` — https://liveuamap.com/
+- **ScribbleMaps** — `Geolocation Tools / Maps / Map Reporting Tools` — https://www.scribblemaps.com/
+- **MapQuest** — `Geolocation Tools / Maps` — https://www.mapquest.com/
+- **AntennaSearch** — `Geolocation Tools / Maps / Mobile Coverage` — https://www.antennasearch.com/
+- **OpenCelliD** — `Geolocation Tools / Maps / Mobile Coverage` — https://opencellid.org/
+- **OpenSignal** — `Geolocation Tools / Maps / Mobile Coverage` — https://www.opensignal.com/
+- **beaconDB** — `Geolocation Tools / Maps / Mobile Coverage` — https://beacondb.net/
+- **NEXRAD Data Inventory Search** — `Geolocation Tools / Maps` — https://www.ncdc.noaa.gov/nexradinv/
+- **Naver (Korean)** — `Geolocation Tools / Maps` — https://map.naver.com/p/
+- **OpenInfrastructureMap** — `Geolocation Tools / Maps` — https://openinframap.org/
+- **OpenRailwayMap** — `Geolocation Tools / Maps` — https://www.openrailwaymap.org/
+- **OpenStreetCam** — `Geolocation Tools / Maps` — https://kartaview.org/
+- **OpenStreetMap** — `Geolocation Tools / Maps` — https://www.openstreetmap.org/
+- **OpenStreetMap** — `Geolocation Tools / Maps` — https://www.openstreetmap.org/
+- **Overpass Turbo** — `Geolocation Tools / Maps` — https://overpass-turbo.eu/
+- **SkyFi.com - Satellite Open Data (R)** — `Geolocation Tools / Maps` — https://app.skyfi.com/explore/open
+- **Travel by Drone** — `Geolocation Tools / Maps` — https://travelbydrone.com/
+- **US Nav Guide Zip Code Data** — `Geolocation Tools / Maps` — https://www.usnaviguide.com/
+- **Wayback Imagery** — `Geolocation Tools / Maps` — https://livingatlas.arcgis.com/wayback/
+- **Wikimapia** — `Geolocation Tools / Maps` — https://wikimapia.org/#lang=en&lat=40.078071&lon=-100.458984&z=5&m=b
+- **Yandex.Maps** — `Geolocation Tools / Maps` — https://yandex.com/maps/
+- **BGP Malicious Content Ranking** — `IP & MAC Address / BGP` — https://bgpranking.circl.lu/
+- **BGP Tools** — `IP & MAC Address / BGP` — https://www.bgp4.as/tools
+- **Hurricane Electric BGP Toolkit** — `IP & MAC Address / BGP` — https://bgp.he.net/
+- **PeeringDB** — `IP & MAC Address / BGP` — https://www.peeringdb.com/advanced_search
+- **Blocklist.de** — `IP & MAC Address / Blacklists` — https://www.blocklist.de/en/index.html
+- **DShield API** — `IP & MAC Address / Blacklists` — https://isc.sans.edu/api/
+- **FireHOL IP Lists ** — `IP & MAC Address / Blacklists` — https://iplists.firehol.org/
+- **Project Honey Pot** — `IP & MAC Address / Blacklists` — https://www.projecthoneypot.org/list_of_ips.php
+- **DB-IP** — `IP & MAC Address / Geolocation` — https://db-ip.com/
+- **IP Fingerprints** — `IP & MAC Address / Geolocation` — https://ipfingerprints.com/
+- **IP Location Finder** — `IP & MAC Address / Geolocation` — https://www.iplocation.net/
+- **IP2Location.com** — `IP & MAC Address / Geolocation` — https://www.ip2location.com/demo
+- **IPv4/IPv6 lists by country code** — `IP & MAC Address / Geolocation` — https://github.com/ipverse/
+- **Info Sniper** — `IP & MAC Address / Geolocation` — https://www.infosniper.net/
+- **MaxMind Demo** — `IP & MAC Address / Geolocation` — https://www.maxmind.com/en/home
+- **utrace** — `IP & MAC Address / Geolocation` — https://en.utrace.de/
+- **BinaryEdge (R)** — `IP & MAC Address / Host / Port Discovery` — https://www.binaryedge.io/
+- **Criminal IP Search** — `IP & MAC Address / Host / Port Discovery` — https://www.criminalip.io/
+- **Internet Census Search** — `IP & MAC Address / Host / Port Discovery` — https://www.exfiltrated.com/querystart.php
+- **Masscan (T)** — `IP & MAC Address / Host / Port Discovery` — https://github.com/robertdavidgraham/masscan
+- **Netlas.io** — `IP & MAC Address / Host / Port Discovery` — https://netlas.io/
+- **Nmap (T)** — `IP & MAC Address / Host / Port Discovery` — https://nmap.org/download.html
+- **Online Port scanner** — `IP & MAC Address / Host / Port Discovery` — https://portscanner.online/
+- **Portmap** — `IP & MAC Address / Host / Port Discovery` — https://portmap.com/
+- **Scanless (T)** — `IP & MAC Address / Host / Port Discovery` — https://github.com/vesche/scanless
+- **Scans.io** — `IP & MAC Address / Host / Port Discovery` — https://scans.io/
+- **Shodan** — `IP & MAC Address / Host / Port Discovery` — https://www.shodan.io/
+- **Spyse** — `IP & MAC Address / Host / Port Discovery` — https://spyse.com/search/ip
+- **urlscan.io** — `IP & MAC Address / Host / Port Discovery` — https://urlscan.io/search/#*
+- **Grabify** — `IP & MAC Address / IP Loggers` — https://grabify.link
+- **IP Logger** — `IP & MAC Address / IP Loggers` — https://iplogger.com/
+- **Ki.tc** — `IP & MAC Address / IP Loggers` — https://ki.tc
+- **ASlookup.com** — `IP & MAC Address / IPv4` — https://aslookup.com/
+- **Hacker Target - Reverse DNS** — `IP & MAC Address / IPv4` — https://hackertarget.com/reverse-dns-lookup/
+- **IP to ASN DB** — `IP & MAC Address / IPv4` — https://iptoasn.com/
+- **IPv4 CIDR Report** — `IP & MAC Address / IPv4` — https://www.cidr-report.org/as2.0/
+- **Onyphe** — `IP & MAC Address / IPv4` — https://www.onyphe.io/
+- **Port scanner Online** — `IP & MAC Address / IPv4` — https://portscanner.online/
+- **Reverse.report** — `IP & MAC Address / IPv4` — https://reverse.report/
+- **Team Cymru IP to ASN** — `IP & MAC Address / IPv4` — https://asn.cymru.com/
+- **IPv6 CIDR Report** — `IP & MAC Address / IPv6` — https://www.cidr-report.org/v6/as2.0/
+- **Bing IP Search (D)** — `IP & MAC Address / Neighbor Domains` — https://www.bing.com/search?q=ip%3A8.8.8.8
+- **IP Fingerprints - Reverse IP Lookup** — `IP & MAC Address / Neighbor Domains` — https://ipfingerprints.com/reverseip.php
+- **MyIPNeighbors** — `IP & MAC Address / Neighbor Domains` — https://www.my-ip-neighbors.com/
+- **TCP/IP Utils - Domain Neighbors** — `IP & MAC Address / Neighbor Domains` — https://dnslytics.com/
+- **NetworkMiner** — `IP & MAC Address / Network Analysis Tools` — https://www.netresec.com/?page=Networkminer
+- **Packet Total** — `IP & MAC Address / Network Analysis Tools` — https://www.packettotal.com/
+- **Wireshark** — `IP & MAC Address / Network Analysis Tools` — https://www.wireshark.org/download.html
+- **checkip (T)** — `IP & MAC Address / Network Analysis Tools` — https://github.com/jreisinger/checkip
+- **CloudFail (T)** — `IP & MAC Address / Protected by Cloud Services` — https://github.com/m0rtem/CloudFail
+- **CloudFlare Watch** — `IP & MAC Address / Protected by Cloud Services` — https://www.crimeflare.com/
+- **ExoneraTor** — `IP & MAC Address / Reputation` — https://exonerator.torproject.org/
+- **Grey Noise** — `IP & MAC Address / Reputation` — https://viz.greynoise.io/
+- **IP Void** — `IP & MAC Address / Reputation` — https://www.ipvoid.com/
+- **OpenCellid: Database of Cell Towers** — `IP & MAC Address / Wireless Network Info` — https://opencellid.org/
+- **WiGLE: Wireless Network Mapping** — `IP & MAC Address / Wireless Network Info` — https://wigle.net/
+- **Pastebin OSINT Harvester (T)** — `Images / Videos / Docs / Documents / Paste Sites` — https://github.com/needmorecowbell/sniff-paste
+- **Amazon AWS (D)** — `Images / Videos / Docs / Documents / Search / Common GoogleDorks` — https://www.google.com/search?q=site:s3.amazonaws.com+%3Csearchterm%3E
+- **Cryptome (D)** — `Images / Videos / Docs / Documents / Search / Common GoogleDorks` — https://www.google.com/search?q=site:cryptome.org+%3Csearchterm%3E
+- **Dropbox (D)** — `Images / Videos / Docs / Documents / Search / Common GoogleDorks` — https://www.google.com/?q=site:dl.dropbox.com+%3Csearchterm%3E
+- **GoogleDocs (D)** — `Images / Videos / Docs / Documents / Search / Common GoogleDorks` — https://www.google.com/?q=site:docs.google.com+%3Csearchterm%3E
+- **GoogleDrive (D)** — `Images / Videos / Docs / Documents / Search / Common GoogleDorks` — https://www.google.com/?q=site:drive.google.com+%3Csearchterm%3E
+- **OneDrive (D)** — `Images / Videos / Docs / Documents / Search / Common GoogleDorks` — https://www.google.com/search?safe=off&q=site:onedrive.live.com+%3Csearchterm%3E
+- **Leaked Cables** — `Images / Videos / Docs / Documents / Search` — https://search.wikileaks.org/plusd/
+- **RECAP Court Doc Repo** — `Images / Videos / Docs / Documents / Search` — https://archive.recapthelaw.org/
+- **Scribd** — `Images / Videos / Docs / Documents / Search` — https://www.scribd.com/
+- **WikiLeaks Search** — `Images / Videos / Docs / Documents / Search` — https://search.wikileaks.org/advanced
+- **filessoo.com** — `Images / Videos / Docs / Documents / Search` — https://filessoo.com/
+- **Font Squirrel** — `Images / Videos / Docs / Fonts` — https://www.fontsquirrel.com/matcherator
+- **IdentiFont** — `Images / Videos / Docs / Fonts` — https://www.identifont.com/index.html
+- **What Font Is** — `Images / Videos / Docs / Fonts` — https://www.whatfontis.com/
+- **What The Font** — `Images / Videos / Docs / Fonts` — https://www.myfonts.com/pages/whatthefont
+- **Flickr** — `Images / Videos / Docs / Images / Flickr` — https://www.flickr.com/
+- **Flickr Hive Mind** — `Images / Videos / Docs / Images / Flickr` — https://flickrhivemind.net/
+- **Flickr Map** — `Images / Videos / Docs / Images / Flickr` — https://www.flickr.com/map/
+- **My Pics Map** — `Images / Videos / Docs / Images / Flickr` — https://www.mypicsmap.com/
+- **idGettr** — `Images / Videos / Docs / Images / Flickr` — https://www.webfx.com/tools/idgettr/
+- **Forensically** — `Images / Videos / Docs / Images / Forensics` — https://29a.ch/photo-forensics/
+- **Ghiro (T)** — `Images / Videos / Docs / Images / Forensics` — https://getghiro.org/
+- **Imgrab** — `Images / Videos / Docs / Images / Instagram` — https://www.imgrab.com/
+- **Instagram** — `Images / Videos / Docs / Images / Instagram` — https://www.instagram.com/
+- **Mini Instagram** — `Images / Videos / Docs / Images / Instagram` — https://mini-for-instagram.en.softonic.com/
+- **Tofo.me** — `Images / Videos / Docs / Images / Instagram` — https://tofo.me/
+- **Webstigram** — `Images / Videos / Docs / Images / Instagram` — https://websta.me/search-engine-optimization/
+- **Apache Tika (T)** — `Images / Videos / Docs / Images / Metadata` — https://tika.apache.org/
+- **C2PA Verify** — `Images / Videos / Docs / Images / Metadata` — https://c2paviewer.com/
+- **ExifEditor** — `Images / Videos / Docs / Images / Metadata` — https://exifeditor.io
+- **ExifTool (T)** — `Images / Videos / Docs / Images / Metadata` — https://exiftool.org/
+- **ExifViewer** — `Images / Videos / Docs / Images / Metadata` — https://www.exifviewer.org/
+- **Exiv2 (T)** — `Images / Videos / Docs / Images / Metadata` — https://exiv2.org/
+- **FOCA (T)** — `Images / Videos / Docs / Images / Metadata` — https://github.com/ElevenPaths/FOCA
+- **GeoSetter** — `Images / Videos / Docs / Images / Metadata` — https://geosetter.de/en/main-en/
+- **Hachoir (T)** — `Images / Videos / Docs / Images / Metadata` — https://hachoir.readthedocs.io/
+- **JPEGsnoop (T)** — `Images / Videos / Docs / Images / Metadata` — https://www.impulseadventure.com/photo/jpeg-snoop.html
+- **Jeffrey's Exif Viewer** — `Images / Videos / Docs / Images / Metadata` — https://regex.info/blog/
+- **MediaInfo (T)** — `Images / Videos / Docs / Images / Metadata` — https://mediaarea.net/en/MediaInfo
+- **Metadata2Go** — `Images / Videos / Docs / Images / Metadata` — https://www.metadata2go.com/
+- **Metapicz** — `Images / Videos / Docs / Images / Metadata` — https://metapicz.com/#landing
+- **Search by Exif** — `Images / Videos / Docs / Images / Metadata` — https://exif.osint-tool.com
+- **oletools (T)** — `Images / Videos / Docs / Images / Metadata` — https://github.com/decalage2/oletools
+- **xeuledoc - Fetch metadata about any public Google document** — `Images / Videos / Docs / Images / Metadata` — https://github.com/Malfrats/xeuledoc
+- **New OCR** — `Images / Videos / Docs / Images / OCR` — https://www.newocr.com/
+- **Online OCR** — `Images / Videos / Docs / Images / OCR` — https://www.onlineocr.net/
+- **i2OCR** — `Images / Videos / Docs / Images / OCR` — https://www.i2ocr.com/
+- **7Photos.net** — `Images / Videos / Docs / Images / Search` — https://7photos.net/
+- **Baidu Images** — `Images / Videos / Docs / Images / Search` — https://image.baidu.com/
+- **Bing Images** — `Images / Videos / Docs / Images / Search` — https://www.bing.com/images
+- **CC Search** — `Images / Videos / Docs / Images / Search` — https://search.creativecommons.org/
+- **CamFind App** — `Images / Videos / Docs / Images / Search` — https://camfindapp.com/
+- **Current Location** — `Images / Videos / Docs / Images / Search` — https://current-location.com/
+- **FaceCheck Facial Recognition Search** — `Images / Videos / Docs / Images / Search` — https://facecheck.id/
+- **FaceSeek Face Search Engine** — `Images / Videos / Docs / Images / Search` — https://www.faceseek.online/
+- **Google Images** — `Images / Videos / Docs / Images / Search` — https://images.google.com/
+- **Image Identification Project** — `Images / Videos / Docs / Images / Search` — https://www.imageidentify.com/
+- **ImageNet** — `Images / Videos / Docs / Images / Search` — https://image-net.org/
+- **Imgur Search** — `Images / Videos / Docs / Images / Search` — https://imgur.com/search
+- **Lenso.ai** — `Images / Videos / Docs / Images / Search` — https://lenso.ai/
+- **Photobucket** — `Images / Videos / Docs / Images / Search` — https://photobucket.com/
+- **Picarta** — `Images / Videos / Docs / Images / Search` — https://picarta.ai/
+- **PimEyes Face Search Engine** — `Images / Videos / Docs / Images / Search` — https://pimeyes.com/en
+- **Places2** — `Images / Videos / Docs / Images / Search` — http://places2.csail.mit.edu/
+- **RevEye Reverse Image Search (T)** — `Images / Videos / Docs / Images / Search` — https://github.com/steven2358/reveye
+- **SauceNAO** — `Images / Videos / Docs / Images / Search` — https://saucenao.com/
+- **SmugMug Search** — `Images / Videos / Docs / Images / Search` — https://www.smugmug.com/
+- **Surfface Face & People Search Engine** — `Images / Videos / Docs / Images / Search` — https://surfface.com/
+- **Twitter Image Search (M)** — `Images / Videos / Docs / Images / Search` — https://twitter.com/search?q=%3Csearchterm%3E&src=typd&vertical=default&f=images
+- **Yandex Images** — `Images / Videos / Docs / Images / Search` — https://yandex.com/images/
+- **Creepy (T)** — `Images / Videos / Docs / Images / Tools` — https://github.com/ilektrojohn/creepy
+- **Frame by Frame for YouTube (T)** — `Images / Videos / Docs / Videos / Analyze / Record` — https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB
+- **Hooktube** — `Images / Videos / Docs / Videos / Analyze / Record` — https://hooktube.com/
+- **Print Storyboard from Youtube** — `Images / Videos / Docs / Videos / Analyze / Record` — javascript:(function(){a=ytplayer.config.args.storyboard_spec;if(!a){alert("Sorry we cannot process this YouTube video. Could you please try another one");exit();}b=a.split("|");base=b[0].split("$")[0]+"2/M";c=b[3].split("%23");sigh=c[c.length-1];var imgs="";t=ytplayer.config.args.length_seconds;n=Math.ceil(c[2]/(c[3]*c[4]));for(i=0;i<n;i++){imgs+="<PICTURE='"+base+i+".jpg%3Fsigh="+sigh+"'><br/>";}var title=ytplayer.config.args.title;msg="<body style='background-color:#444;color:#eee;margin:20px%20auto;width:90%;text-align:center'%3E%3Ch2%3ETITLE%3C/h2%3E%3Cdiv%3EIMAGES%3C/div%3E%3Cbr/%3E%3Cem%3E%3Ca%20href='http://labnol.org/?p=28217'%20style='text-decoration:none;color:#fff;font-style:bold'%3EPrinted%20using%20the%20YouTube%20bookmarklet.%3C/a%3E%3C/em%3E%3C/body%3E%22;msg=msg.replace(%22TITLE%22,title).replace(%22IMAGES%22,imgs).replace(/PICTURE/g,%22img%20src%22);var%20labnol=window.open();labnol.document.open();labnol.document.write(msg);labnol.document.close();})();
+- **Print YouTube StoryBoard Instructions** — `Images / Videos / Docs / Videos / Analyze / Record` — https://www.labnol.org/internet/print-youtube-video/28217
+- **TubeChop** — `Images / Videos / Docs / Videos / Analyze / Record` — https://tubechop.com/
+- **YouTube Data Tools** — `Images / Videos / Docs / Videos / Analyze / Record` — https://tools.digitalmethods.net/netvizz/youtube/
+- **yasiv-youtube** — `Images / Videos / Docs / Videos / Analyze / Record` — https://yasiv.com/youtube/
+- **Bing Videos** — `Images / Videos / Docs / Videos / Search` — https://www.bing.com/videos
+- **Dogpile** — `Images / Videos / Docs / Videos / Search` — https://www.dogpile.com/
+- **Facebook Live Map** — `Images / Videos / Docs / Videos / Search` — https://facebook.com/live
+- **Geo Search Tool** — `Images / Videos / Docs / Videos / Search` — https://youtube.github.io/geo-search-tool/
+- **Google Videos** — `Images / Videos / Docs / Videos / Search` — https://www.google.com/videohp
+- **Internet Archive Videos** — `Images / Videos / Docs / Videos / Search` — https://archive.org/details/movies
+- **LiveLeak (D)** — `Images / Videos / Docs / Videos / Search` — https://www.liveleak.com/
+- **Metatube** — `Images / Videos / Docs / Videos / Search` — https://github.com/JVT038/MetaTube
+- **Search YouTube by Location** — `Images / Videos / Docs / Videos / Search` — https://mattw.io/youtube-geofind/
+- **Vines (D)** — `Images / Videos / Docs / Videos / Search` — https://www.google.com/search?q=site:vine.co+%3Csearchterm%3E
+- **Yahoo Video Search** — `Images / Videos / Docs / Videos / Search` — https://video.search.yahoo.com/
+- **blinkx Video Search** — `Images / Videos / Docs / Videos / Search` — https://blinkx.com/
+- **EarthCam** — `Images / Videos / Docs / Webcams` — https://www.earthcam.com/
+- **Insecam** — `Images / Videos / Docs / Webcams` — https://insecam.org/
+- **SeeAllTheThings** — `Images / Videos / Docs / Webcams` — https://github.com/baywolf88/seeallthethings
+- **Comms Analyzer Toolbox (T)** — `Instant Messaging / Chat Archive Analysis` — https://github.com/bitsofinfo/comms-analyzer-toolbox
+- **Disboard** — `Instant Messaging / Discord` — https://disboard.org/
+- **DiscordOSINT (T)** — `Instant Messaging / Discord` — https://github.com/husseinmuhaisen/DiscordOSINT
+- **Awesome OSINT** — `Instant Messaging / Resources` — https://github.com/jivoi/awesome-osint
+- **OSINT Industries** — `Instant Messaging / Signal / Phone Lookup` — https://www.osint.industries/
+- **SlackPirate (T)** — `Instant Messaging / Slack` — https://github.com/emtunc/SlackPirate
+- **slack-intelbot (T)** — `Instant Messaging / Slack` — https://github.com/pun1sh3r/slack-intelbot
+- **slack-web-scraper (T)** — `Instant Messaging / Slack` — https://github.com/iulspop/slack-web-scraper
+- **Google CSE for Telegram links** — `Instant Messaging / Telegram` — https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg
+- **TGStat** — `Instant Messaging / Telegram` — https://tgstat.com/
+- **Telegago (T)** — `Instant Messaging / Telegram` — https://tools.osintnewsletter.com/osint-tools/telegago-telegram
+- **Telegram-OSINT (T)** — `Instant Messaging / Telegram` — https://github.com/The-Osint-Toolbox/Telegram-OSINT
+- **Tosint (T)** — `Instant Messaging / Telegram` — https://github.com/drego85/tosint
+- **Sogou WeChat Search** — `Instant Messaging / WeChat / LINE` — https://weixin.sogou.com/
+- **WechatSogou (T)** — `Instant Messaging / WeChat / LINE` — https://github.com/Chowency/WechatSogou
+- **line-message-analyzer (T)** — `Instant Messaging / WeChat / LINE` — https://github.com/chonyy/line-message-analyzer
+- **linelog2py (T)** — `Instant Messaging / WeChat / LINE` — https://github.com/jyu0414/linelog2py
+- **wechat-dump (T)** — `Instant Messaging / WeChat / LINE` — https://github.com/ppwwyyxx/wechat-dump
+- **wechat-text-backup (T)** — `Instant Messaging / WeChat / LINE` — https://github.com/zhaofeng-shu33/wechat-text-backup
+- **Email2WhatsApp (T)** — `Instant Messaging / WhatsApp` — https://github.com/dsonbaker/email2whatsapp
+- **WhatsApp-OSINT (T)** — `Instant Messaging / WhatsApp` — https://github.com/kinghacker0/WhatsApp-OSINT
+- **WhatTheFont** — `Language Translation / Analysis` — https://www.myfonts.com/pages/whatthefont/
+- **New OCR** — `Language Translation / Pictures` — https://www.newocr.com/
+- **Online OCR (SodaPDF)** — `Language Translation / Pictures` — https://www.sodapdf.com/pdf-tools/ocr-pdf/
+- **Online OCR (onlineocr.net)** — `Language Translation / Pictures` — https://www.onlineocr.net/
+- **i2OCR** — `Language Translation / Pictures` — https://www.i2ocr.com/
+- **Bing Translate** — `Language Translation / Text` — https://translator.bing.com/
+- **Cambridge Dictionary** — `Language Translation / Text` — https://dictionary.cambridge.org/
+- **DeepL Translator** — `Language Translation / Text` — https://www.deepl.com/en/translator
+- **Free Translation** — `Language Translation / Text` — https://translation2.paralink.com/
+- **Google Input Tools** — `Language Translation / Text` — https://www.google.com/inputtools/
+- **Google Translate** — `Language Translation / Text` — https://translate.google.com/
+- **Slang Dictionary & Translator** — `Language Translation / Text` — https://www.noslang.com/
+- **Slangit - The Slang Dictionary** — `Language Translation / Text` — https://slang.net/
+- **Urban Dictionary** — `Language Translation / Text` — https://www.urbandictionary.com/
+- **Wiktionary** — `Language Translation / Text` — https://en.wiktionary.org/
+- **Word Reference** — `Language Translation / Text` — https://www.wordreference.com/
+- **Ghidra (T)** — `Malicious File Analysis` — https://github.com/NationalSecurityAgency/ghidra
+- **Akana Android Malware** — `Malicious File Analysis / Hosted Automated Analysis / Android` — https://akana.mobiseclab.org/
+- **Joe APK Analyzer** — `Malicious File Analysis / Hosted Automated Analysis / Android` — https://www.apk-analyzer.net/
+- **Any Run** — `Malicious File Analysis / Hosted Automated Analysis` — https://app.any.run/
+- **Ether** — `Malicious File Analysis / Hosted Automated Analysis` — https://ether.gtisc.gatech.edu/web_unpack/
+- **Hybrid Analysis** — `Malicious File Analysis / Hosted Automated Analysis` — https://hybrid-analysis.com/
+- **Joe File Analyzer** — `Malicious File Analysis / Hosted Automated Analysis` — https://www.file-analyzer.net/
+- **Jotti's Malware Scanner** — `Malicious File Analysis / Hosted Automated Analysis` — https://virusscan.jotti.org/en-US/scan-file
+- **Koodous** — `Malicious File Analysis / Hosted Automated Analysis` — https://koodous.com
+- **Malware Config** — `Malicious File Analysis / Hosted Automated Analysis` — https://malwareconfig.com/
+- **MetaDefender** — `Malicious File Analysis / Hosted Automated Analysis` — https://metadefender.opswat.com/
+- **OPSWAT Meta Defender** — `Malicious File Analysis / Hosted Automated Analysis` — https://metadefender.opswat.com/#!/
+- **JoeSandbox Document Analyzer** — `Malicious File Analysis / Hosted Automated Analysis / Office Files` — https://www.joesandbox.com/
+- **TYLabs QuickSand Framework** — `Malicious File Analysis / Hosted Automated Analysis / Office Files` — https://scan.tylabs.com/
+- **TYLabs QuickSand Framework** — `Malicious File Analysis / Hosted Automated Analysis / PDFs` — https://scan.tylabs.com/
+- **Pikker.ee Cuckoo Sandbox** — `Malicious File Analysis / Hosted Automated Analysis` — https://sandbox.pikker.ee/
+- **Uncover It** — `Malicious File Analysis / Hosted Automated Analysis` — https://www.uncoverit.org/
+- **Valkyrie File Analysis** — `Malicious File Analysis / Hosted Automated Analysis` — https://consumer.valkyrie.comodo.com/
+- **VirusTotal** — `Malicious File Analysis / Hosted Automated Analysis` — https://www.virustotal.com/gui/
+- **detux Linux Sandbox** — `Malicious File Analysis / Hosted Automated Analysis` — https://detux.org/
+- **Malware Analysis Tools** — `Malicious File Analysis` — https://malwareanalysis.tools/
+- **OffVis (T)** — `Malicious File Analysis / Office Files` — https://download.microsoft.com/download/1/2/7/127ba59a-4fe1-4acd-ba47-513ceef85a85/OffVis.zip
+- **Office Mal Scanner (T)** — `Malicious File Analysis / Office Files` — https://www.reconstructer.org/
+- **Malware-Traffic-Analysis.net** — `Malicious File Analysis / PCAPs` — https://www.malware-traffic-analysis.net/index.html
+- **Origami Framework (T)** — `Malicious File Analysis / PDFs` — https://code.google.com/archive/p/origami-pdf/
+- **PDF Tools (T)** — `Malicious File Analysis / PDFs` — https://blog.didierstevens.com/programs/pdf-tools/
+- **#totalhash** — `Malicious File Analysis / Search` — https://totalhash.cymru.com/
+- **Decalage Malware Search** — `Malicious File Analysis / Search` — https://decalage.info/en/mwsearch
+- **ID Ransomware** — `Malicious File Analysis / Search` — https://id-ransomware.malwarehunterteam.com/
+- **National Software Reference Library** — `Malicious File Analysis / Search` — https://nsrl.hashsets.com/national_software_reference_library1_search.php
+- **VX Vault** — `Malicious File Analysis / Search` — https://vxvault.net/ViriList.php
+- **VirusShare.com** — `Malicious File Analysis / Search` — https://virusshare.com/
+- **virustotal** — `Malicious File Analysis` — https://www.virustotal.com/gui/home/upload
+- **Kik (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://www.kik.com/
+- **LINE (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://line.me/
+- **Riot.im - Communicate, your way (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://riot.im/
+- **Signal Private Messenger (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://signal.org/
+- **Snapchat (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://www.snapchat.com/
+- **Telegram (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://telegram.org/
+- **WhatsApp Messenger (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://www.whatsapp.com/
+- **Yik Yak (T)** — `Mobile OSINT / Android / Apps / Instant Messaging` — https://www.yikyak.com/
+- **Flickr (T)** — `Mobile OSINT / Android / Apps / Pictures` — https://www.flickr.com/
+- **Instagram (T)** — `Mobile OSINT / Android / Apps / Pictures` — https://www.instagram.com/
+- **Facebook (T)** — `Mobile OSINT / Android / Apps / Social Networking` — https://www.facebook.com/
+- **LinkedIn (T)** — `Mobile OSINT / Android / Apps / Social Networking` — https://www.linkedin.com/
+- **Pinterest (T)** — `Mobile OSINT / Android / Apps / Social Networking` — https://www.pinterest.com/
+- **Twitter (T)** — `Mobile OSINT / Android / Apps / Social Networking` — https://www.twitter.com/
+- **Meerkat (T)** — `Mobile OSINT / Android / Apps / Streaming Video` — https://meerkatapp.co/
+- **Periscope (T)** — `Mobile OSINT / Android / Apps / Streaming Video` — https://www.periscope.tv/
+- **Vine (T)** — `Mobile OSINT / Android / Apps / Streaming Video` — https://vine.co/
+- **Truecaller (T)** — `Mobile OSINT / Android / Apps` — https://www.truecaller.com/
+- **Apk Online** — `Mobile OSINT / Android / Emulation Tools` — https://apk.online/
+- **BlueStacks 2 (T)** — `Mobile OSINT / Android / Emulation Tools` — https://www.bluestacks.com/
+- **Genymotion (T)** — `Mobile OSINT / Android / Emulation Tools` — https://www.genymotion.com/
+- **Nox App Player** — `Mobile OSINT / Android / Emulation Tools` — https://www.bignox.com/
+- **APKLeaks** — `Mobile OSINT / App Analysis` — https://github.com/dwisiswant0/apkleaks
+- **APKtool** — `Mobile OSINT / App Analysis` — https://apktool.org/
+- **JADX** — `Mobile OSINT / App Analysis` — https://github.com/skylot/jadx
+- **MobSF** — `Mobile OSINT / App Analysis` — https://github.com/MobSF/Mobile-Security-Framework-MobSF
+- **Autopsy** — `Mobile OSINT / Device Forensics` — https://www.autopsy.com/
+- **Frida** — `Mobile OSINT / Device Forensics` — https://frida.re/
+- **Charles Proxy** — `Mobile OSINT / iOS` — https://www.charlesproxy.com/
+- **Lynxio OSINT** — `Mobile OSINT / iOS` — https://lynxio.io/
+- **OSINT Researcher** — `Mobile OSINT / iOS` — https://apps.apple.com/us/app/osint-researcher/id6747302251
+- **Blog Search Engine** — `Online Communities / Blog Search Engines` — https://www.blogsearchengine.org/
+- **Live Journal Seek** — `Online Communities / Blog Search Engines` — https://ljseek.com/
+- **Discord Bot List** — `Online Communities / Discord Servers` — https://discord.bots.gg/
+- **ReconXplorer (T)** — `Online Communities / Discord Servers` — https://github.com/root7am/ReconXplorer
+- **Top.gg** — `Online Communities / Discord Servers` — https://top.gg/
+- **BoardReader** — `Online Communities / Forum Search Engines` — https://boardreader.com/
+- **Craigslist Forums** — `Online Communities / Forum Search Engines` — https://forums.craigslist.org/
+- **Delphi Forum Search** — `Online Communities / Forum Search Engines` — https://www.delphiforums.com/
+- **Google Groups Search** — `Online Communities / Forum Search Engines` — https://groups.google.com/forum/#!overview
+- **Omgili** — `Online Communities / Forum Search Engines` — https://webz.io/
+- **IRCP (T)** — `Online Communities / IRC Search` — https://github.com/internet-relay-chat/IRCP
+- **Mibbit** — `Online Communities / IRC Search` — https://search.mibbit.com/
+- **ircsnapshot (T)** — `Online Communities / IRC Search` — https://github.com/bwall/ircsnapshot
+- **netsplit.de** — `Online Communities / IRC Search` — https://netsplit.de/channels/search.php
+- **Arctic Shift** — `Online Communities / Reddit Communities` — https://arctic-shift.photon-reddit.com/
+- **Cama's Reddit Search** — `Online Communities / Reddit Communities` — https://camas.github.io/reddit-search/
+- **Reveddit** — `Online Communities / Reddit Communities` — https://www.reveddit.com/
+- **VPN Comparisons - That One Privacy Site** — `OpSec / Anonymous Browsing / Anonymous VPNs` — https://thatoneprivacysite.net/
+- **Browser Leaks** — `OpSec / Anonymous Browsing` — https://browserleaks.com/
+- **Browser Statistics** — `OpSec / Anonymous Browsing / Browser Tests` — https://www.w3schools.com/browsers/default.asp
+- **What Browser?** — `OpSec / Anonymous Browsing / Browser Tests` — https://whatbrowser.org/
+- **What browser am I using.co** — `OpSec / Anonymous Browsing / Browser Tests` — https://www.whatbrowseramiusing.co/
+- **WhatsMyBrowser.org** — `OpSec / Anonymous Browsing / Browser Tests` — https://www.whatsmybrowser.org/
+- **BrowserSpy.dk** — `OpSec / Anonymous Browsing` — https://browserspy.dk/
+- **Firefox-debloat** — `OpSec / Anonymous Browsing` — https://github.com/amq/firefox-debloat
+- **LocaBrowser.com** — `OpSec / Anonymous Browsing` — https://www.locabrowser.com/
+- **NoScript (T)** — `OpSec / Anonymous Browsing` — https://noscript.net/
+- **IP2Proxy** — `OpSec / Anonymous Browsing / Proxy Tests` — https://www.ip2proxy.com/
+- **Self-Destructing Cookies (T)** — `OpSec / Anonymous Browsing` — https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/
+- **User Agent String Decoder** — `OpSec / Anonymous Browsing / Spoof User-Agent` — https://tools.tracemyip.org/user-agent-string-decoder/
+- **UserAgentString.com** — `OpSec / Anonymous Browsing / Spoof User-Agent` — https://www.useragentstring.com/pages/useragentstring.php
+- **WhatIsMyBrowser.com** — `OpSec / Anonymous Browsing / Spoof User-Agent` — https://www.whatismybrowser.com/
+- **Freenet Project (T)** — `OpSec / Anonymous Browsing / TOR` — https://freenetproject.org/pages/download.html
+- **I2P Anonymous Network (T)** — `OpSec / Anonymous Browsing / TOR` — https://geti2p.net/en/
+- **Tor Download (T)** — `OpSec / Anonymous Browsing / TOR` — https://www.torproject.org/download/
+- **DNS Leak Tests** — `OpSec / Anonymous Browsing / VPN Tests` — https://dnsleak.com/
+- **DNS leak test** — `OpSec / Anonymous Browsing / VPN Tests` — https://www.dnsleaktest.com/
+- **Email Leak Tests** — `OpSec / Anonymous Browsing / VPN Tests` — https://emailipleak.com/
+- **IP / DNS Leak Detection** — `OpSec / Anonymous Browsing / VPN Tests` — https://ipleak.net/
+- **IPv6 Leak Tests** — `OpSec / Anonymous Browsing / VPN Tests` — https://ipv6leak.com/
+- **JonDonym** — `OpSec / Anonymous Browsing / VPN Tests` — https://ip-check.info/?lang=en
+- **LetMeCheck.it** — `OpSec / Anonymous Browsing / VPN Tests` — https://letmecheck.it/
+- **Perfect Privacy** — `OpSec / Anonymous Browsing / VPN Tests` — https://www.perfect-privacy.com/check-ip/
+- **Trace My IP** — `OpSec / Anonymous Browsing / VPN Tests` — https://www.tracemyip.org/
+- **WebRTC Leak Test** — `OpSec / Anonymous Browsing / VPN Tests` — https://www.perfect-privacy.com/webrtc-leaktest/
+- **Anonymouth - Document Anonymization (T)** — `OpSec / Metadata / Style` — https://github.com/psal/anonymouth
+- **MAT2 (T)** — `OpSec / Metadata / Style` — https://0xacab.org/jvoisin/mat2
+- **Fake Identity Generator** — `OpSec / Persona Creation` — https://backgroundchecks.org/justdeleteme/fake-identity-generator/
+- **Fake Name Generator** — `OpSec / Persona Creation` — https://www.fakenamegenerator.com/
+- **Faker.js** — `OpSec / Persona Creation` — https://cdn.rawgit.com/Marak/faker.js/master/examples/browser/index.html
+- **Random User Generator** — `OpSec / Persona Creation` — https://randomuser.me/
+- **This Person Does Not Exist** — `OpSec / Persona Creation` — https://thispersondoesnotexist.com/
+- **Awesome Opt-Out Guide 2026** — `OpSec / Privacy / Clean Up` — https://github.com/thumpersecure/opt-out-manual-2026
+- **Credit Freeze** — `OpSec / Privacy / Clean Up` — https://inteltechniques.com/blog/2018/09/28/complete-credit-freeze-tutorial-update/
+- **Fake US Identities** — `OpSec / Privacy / Clean Up` — https://xdd2.org/
+- **Intel Techniques - Hiding from the Internet** — `OpSec / Privacy / Clean Up` — https://inteltechniques.com/data/workbook.pdf
+- **Just Delete Me** — `OpSec / Privacy / Clean Up` — https://backgroundchecks.org/justdeleteme/
+- **OptOut Credit Prescreen** — `OpSec / Privacy / Clean Up` — https://www.optoutprescreen.com/?rf=t
+- **Panopticlick** — `OpSec / Privacy / Clean Up` — https://panopticlick.eff.org/
+- **Privacy Guides** — `OpSec / Privacy / Clean Up` — https://www.privacyguides.org/en/
+- **Privacy Tools** — `OpSec / Privacy / Clean Up` — https://www.privacytools.io/
+- **Social Media Fingerprint** — `OpSec / Privacy / Clean Up` — https://robinlinus.github.io/socialmedia-leak/
+- **The Hitchhiker’s Guide to Online Anonymity** — `OpSec / Privacy / Clean Up` — https://anonymousplanet.org/guide/
+- **The Many Hats Club - Privacy Resources** — `OpSec / Privacy / Clean Up` — https://themanyhats.club/centralised-place-for-privacy-resources/
+- **Addresses.com** — `People Search Engines / General People Search` — https://www.addresses.com/
+- **Ancestry.com** — `People Search Engines / General People Search` — https://www.ancestry.com/search/
+- **AnyWho** — `People Search Engines / General People Search` — https://www.anywho.com/whitepages
+- **FaceCheckID** — `People Search Engines / General People Search` — https://facecheck.id/
+- **FamilySearch.org** — `People Search Engines / General People Search` — https://familysearch.org/search/
+- **IDCrawl** — `People Search Engines / General People Search` — https://www.idcrawl.com/
+- **InfoFlow Public People Search In Chilean** — `People Search Engines / General People Search` — https://infoflow.cloud/
+- **Lullar** — `People Search Engines / General People Search` — https://com.lullar.com/
+- **Melissa Data - People Finder (R)** — `People Search Engines / General People Search` — https://www.melissa.com/
+- **PeekYou** — `People Search Engines / General People Search` — https://www.peekyou.com/
+- **Snitch.name** — `People Search Engines / General People Search` — https://snitch.name/
+- **ThatsThem** — `People Search Engines / General People Search` — https://thatsthem.com/name-address-search
+- **Webmii** — `People Search Engines / General People Search` — https://webmii.com/
+- **Yasni** — `People Search Engines / General People Search` — https://www.yasni.com/
+- **findmypast.com** — `People Search Engines / General People Search` — https://www.findmypast.com/discover
+- **usa-people-search.com** — `People Search Engines / General People Search` — https://www.usa-people-search.com/
+- **Amazon Registry Search** — `People Search Engines / Registries` — https://www.amazon.com/registries
+- **My Registry** — `People Search Engines / Registries` — https://www.myregistry.com/
+- **Registry Finder** — `People Search Engines / Registries` — https://registryfinder.com:443/
+- **The Bump** — `People Search Engines / Registries` — https://registry.thebump.com/babyregistrysearch
+- **The Knot** — `People Search Engines / Registries` — https://www.theknot.com/registry/couplesearch
+- **BRB Public Records** — `Public Records` — https://www.brbpublications.com/
+- **Sorted by Birth Date** — `Public Records / Birth Records` — https://www.bop.gov/inmateloc/
+- **Black Book Online - Criminal Search** — `Public Records / Court / Criminal Records` — https://www.blackbookonline.info/
+- **Caselaw Access Project** — `Public Records / Court / Criminal Records` — https://case.law/
+- **CourtListener** — `Public Records / Court / Criminal Records` — https://courtlistener.com/
+- **CrimeReports.com** — `Public Records / Court / Criminal Records` — https://crimereports.com
+- **Docket Alarm** — `Public Records / Court / Criminal Records` — https://docketalarm.com
+- **Epstein Exposed** — `Public Records / Court / Criminal Records` — https://epsteinexposed.com/
+- **Familywatchdog - Sex Offender Search** — `Public Records / Court / Criminal Records` — https://www.familywatchdog.us/
+- **Federal Inmate Locator** — `Public Records / Court / Criminal Records` — https://www.bop.gov/inmateloc/
+- **Free Law RECAP Archive** — `Public Records / Court / Criminal Records` — https://www.courtlistener.com/recap/
+- **Google Scholar Case Law** — `Public Records / Court / Criminal Records` — https://scholar.google.com/scholar_courts
+- **Most Wanted Criminal Pages** — `Public Records / Court / Criminal Records` — https://www.fbi.gov/wanted/fugitives
+- **Mugshots.com** — `Public Records / Court / Criminal Records` — https://mugshots.com
+- **National Sex Offender Search** — `Public Records / Court / Criminal Records` — https://www.nsopw.gov/
+- **Nationwide County Court Records** — `Public Records / Court / Criminal Records` — https://www.publicrecordcenter.com/onlinecourtrecords.htm
+- **PACER** — `Public Records / Court / Criminal Records` — https://pacer.uscourts.gov/
+- **The Inmate Locator** — `Public Records / Court / Criminal Records` — https://www.bop.gov/inmateloc/
+- **UniCourt** — `Public Records / Court / Criminal Records` — https://unicourt.com/
+- **World Legal Information Institute** — `Public Records / Court / Criminal Records` — https://worldlii.org
+- **judyrecords** — `Public Records / Court / Criminal Records` — https://www.judyrecords.com/
+- **Death Check** — `Public Records / Death Records` — https://www.deathindexes.com/
+- **Find A Grave** — `Public Records / Death Records` — https://www.findagrave.com/
+- **GraveInfo** — `Public Records / Death Records` — https://billiongraves.com/
+- **BIN Base** — `Public Records / Financial / Tax Resources` — https://www.buybindatabase.binbase.com/
+- **NETR Online** — `Public Records / Financial / Tax Resources` — https://publicrecords.netronline.com/
+- **VAT Research** — `Public Records / Financial / Tax Resources` — https://www.belastingdienst.nl/
+- **GOVDATA - Das Datenportal für Deutschland (German)** — `Public Records` — https://www.govdata.de/
+- **CA Salary DB** — `Public Records / Government Records` — https://transparentcalifornia.com/
+- **Gov Data Canada** — `Public Records / Government Records` — https://open.canada.ca/data/en/dataset
+- **NC Salary DB** — `Public Records / Government Records` — https://www.ncosc.gov/public-information/state-employee-salary-database
+- **Open-Data-Portal München (German)** — `Public Records` — https://opendata.muenchen.de/
+- **Google Patent Search** — `Public Records / Patent Records` — https://patents.google.com/
+- **US Patent Office Search** — `Public Records / Patent Records` — https://www.uspto.gov/patents/search
+- **Emporis** — `Public Records / Property Records` — https://www.emporis.com/
+- **Melissa Data - Property Viewer (R)** — `Public Records / Property Records` — https://melissa-data.com
+- **Neighbor Report** — `Public Records / Property Records` — https://neighbor.report/
+- **Redfin** — `Public Records / Property Records` — https://redfin.com
+- **Regrid (US Only)** — `Public Records / Property Records` — https://regrid.com
+- **Public Records?** — `Public Records` — https://www.brbpublications.com/
+- **Searchable FCC ID Database** — `Public Records` — https://www.fcc.gov/oet/ea/fccid
+- **The World Bank Open Data Catalog** — `Public Records` — https://datacatalog.worldbank.org/
+- **NACo County Explorer** — `Public Records / US County Data` — https://explorer.naco.org/
+- **Every Politician** — `Public Records / US Political Records` — https://everypolitician.org/
+- **Influence Explorer** — `Public Records / US Political Records` — https://influenceexplorer.com/
+- **MelissaData - Campaign Contributions** — `Public Records / US Political Records` — https://melissa-data.com
+- **Political MoneyLine** — `Public Records / US Political Records` — https://www.opensecrets.org/
+- **US Federal Election Commission** — `Public Records / US Political Records` — https://fec.gov/data
+- **Voter Registration Data** — `Public Records / US Voter Records` — https://www.sos.secretary.state.gov/
+- **Bielefeld Academic Search Engine** — `Search Engines / Academic / Publication Search` — https://www.base-search.net/Search/Advanced
+- **Copyscape Plagiarism Checker** — `Search Engines / Academic / Publication Search` — https://www.copyscape.com/
+- **Google Scholar** — `Search Engines / Academic / Publication Search` — https://scholar.google.com/
+- **JURN** — `Search Engines / Academic / Publication Search` — https://www.jurn.org/
+- **Lazy Scholar (T)** — `Search Engines / Academic / Publication Search` — https://lazyscholar.org/
+- **Library Databases** — `Search Engines / Academic / Publication Search` — https://guides.uflib.ufl.edu/az.php
+- **Microsoft Academic** — `Search Engines / Academic / Publication Search` — https://academic.microsoft.com/
+- **Open Access Scholarly Journals** — `Search Engines / Academic / Publication Search` — https://www.pagepress.org/
+- **Open Library** — `Search Engines / Academic / Publication Search` — https://openlibrary.org/
+- **OpenDOAR** — `Search Engines / Academic / Publication Search` — https://www.opendoar.org/search.php
+- **OpenGrey EU Papers** — `Search Engines / Academic / Publication Search` — https://opengrey.eu/
+- **PubMed - National Center for Biotechnology Information** — `Search Engines / Academic / Publication Search` — https://pubmed.ncbi.nlm.nih.gov/
+- **PubPeer** — `Search Engines / Academic / Publication Search` — https://pubpeer.com/
+- **Science Direct** — `Search Engines / Academic / Publication Search` — https://www.sciencedirect.com/
+- **Science Publications** — `Search Engines / Academic / Publication Search` — https://www.thescipub.com/
+- **The Open Syllabus Project** — `Search Engines / Academic / Publication Search` — https://www.opensyllabus.org/
+- **Think Tank Search** — `Search Engines / Academic / Publication Search` — https://guides.library.harvard.edu/hks/think_tank_search
+- **UK National Archives** — `Search Engines / Academic / Publication Search` — https://discovery.nationalarchives.gov.uk/
+- **US Gov Publishing Office - FDsys** — `Search Engines / Academic / Publication Search` — https://www.gpo.gov/fdsys/
+- **arXiv.org** — `Search Engines / Academic / Publication Search` — https://arxiv.org/
+- **GitLeaks** — `Search Engines / Code Search` — https://github.com/gitleaks/gitleaks
+- **Github-Dorks (T)** — `Search Engines / Code Search` — https://github.com/techgaun/github-dorks
+- **Gitrob (T)** — `Search Engines / Code Search` — https://github.com/michenriksen/gitrob
+- **NerdyData** — `Search Engines / Code Search` — https://www.nerdydata.com/reports/new
+- **PublicWWW** — `Search Engines / Code Search` — https://publicwww.com/
+- **Searchcode** — `Search Engines / Code Search` — https://searchcode.com/
+- **FTP Google Dork (D)** — `Search Engines / FTP Search` — https://www.google.com/search?q=inurl%3Aftp+-inurl%3Ahttp+-inurl%3Ahttps+ftpsearchterm
+- **GlobalFile** — `Search Engines / FTP Search` — https://globalfilesearch.com/
+- **Napalm FTP** — `Search Engines / FTP Search` — https://www.searchftps.net/
+- **Advangle** — `Search Engines / General Search` — https://advangle.com/
+- **Baidu** — `Search Engines / General Search` — https://www.baidu.com/
+- **Bing** — `Search Engines / General Search` — https://www.bing.com/
+- **Brave** — `Search Engines / General Search` — https://search.brave.com/
+- **DuckDuckGo** — `Search Engines / General Search` — https://duckduckgo.com/
+- **Google** — `Search Engines / General Search` — https://www.google.com/?gws_rd=ssl
+- **Google Advanced Search** — `Search Engines / General Search` — https://www.google.com/advanced_search
+- **Hulbee** — `Search Engines / General Search` — https://hulbee.com/de
+- **Instya** — `Search Engines / General Search` — https://www.instya.com/
+- **Mojeek** — `Search Engines / General Search` — https://mojeek.com/
+- **StartPage** — `Search Engines / General Search` — https://www.startpage.com/
+- **Stract** — `Search Engines / General Search` — https://stract.com/
+- **Swisscows** — `Search Engines / General Search` — https://swisscows.com/en
+- **Yahoo Advanced Web Search** — `Search Engines / General Search` — https://search.yahoo.com/web/advanced
+- **Yandex** — `Search Engines / General Search` — https://yandex.com/
+- **iZito** — `Search Engines / General Search` — https://www.izito.com/
+- **eTools.ch** — `Search Engines / Meta Search` — https://www.etools.ch/
+- **iSEEK** — `Search Engines / Meta Search` — https://iseek.com/iseek/home.page
+- **AllYouCanRead.com** — `Search Engines / News Search` — https://www.allyoucanread.com/
+- **Flipboard** — `Search Engines / News Search` — https://flipboard.com/
+- **Google News Search** — `Search Engines / News Search` — https://news.google.com/news/advanced_news_search?
+- **Hubii** — `Search Engines / News Search` — https://hubii.com/
+- **Inshorts** — `Search Engines / News Search` — https://inshorts.com/en/read
+- **NewsBot** — `Search Engines / News Search` — https://getnewsbot.com/
+- **NewsBrief** — `Search Engines / News Search` — https://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html
+- **NewsNow.co.uk** — `Search Engines / News Search` — https://www.newsnow.co.uk/h/
+- **Newspaper Map** — `Search Engines / News Search` — https://newspapermap.com/
+- **NewspaperARCHIVE.com** — `Search Engines / News Search` — https://newspaperarchive.com/
+- **PressReader.com** — `Search Engines / News Search` — https://www.pressreader.com/
+- **World News** — `Search Engines / News Search` — https://wn.com/#/search
+- **YouGotTheNews** — `Search Engines / News Search` — https://yougotthenews.com/
+- **Colossus International Engine List** — `Search Engines / Other Search` — https://www.searchenginecolossus.com/
+- **EntityCube** — `Search Engines / Other Search` — https://entitycube.research.microsoft.com/
+- **FindTheData A Research Engine** — `Search Engines / Other Search` — https://www.findthedata.com/
+- **Zenodo** — `Search Engines / Other Search` — https://zenodo.org/
+- **Google Guide Cheat Sheet** — `Search Engines / Search Engine Guides` — https://www.googleguide.com/help/calculator.html
+- **Google Hacking Database** — `Search Engines / Search Engine Guides` — https://www.exploit-db.com/google-hacking-database
+- **Google Search Operators Guide** — `Search Engines / Search Engine Guides` — https://www.googleguide.com/advanced_operators_reference.html
+- **Google Alerts** — `Search Engines / Search Tools` — https://www.google.com/alerts
+- **Google Custom Search Engine** — `Search Engines / Search Tools` — https://cse.google.com/cse/
+- **Google Trends** — `Search Engines / Search Tools` — https://trends.google.com/trends/
+- **Scanner-inurlbr (T)** — `Search Engines / Search Tools` — https://github.com/googleinurl/SCANNER-INURLBR
+- **SearchDiggity (T)** — `Search Engines / Search Tools` — https://bishopfox.com/resources
+- **dorkgenerator.pages.dev** — `Search Engines / Search Tools` — https://dorkgenerator.pages.dev/
+- **dorksearch.com** — `Search Engines / Search Tools` — https://www.dorksearch.com/
+- **dorksearch.netlify.app** — `Search Engines / Search Tools` — https://dorksearch.netlify.app/
+- **pagodo - Passive Google Dork (T)** — `Search Engines / Search Tools` — https://github.com/opsdisk/pagodo
+- **wayparam** — `Search Engines / Search Tools` — https://github.com/aleff-github/wayparam
+- **Treeverse (T)** — `Social Networks / Bluesky` — https://treeverse.app/
+- **FB Email Search** — `Social Networks / Facebook / Search` — https://www.facebook.com/public?query=email@gmail.com&nomc=0
+- **FB Identify (Requires Logout)** — `Social Networks / Facebook / Search` — https://www.facebook.com/login/identify
+- **FB Lookup ID** — `Social Networks / Facebook / Search` — https://lookup-id.com/
+- **Facebook Photos by ID (M)** — `Social Networks / Facebook / Search` — https://www.facebook.com/photo.php?fbid=PHOTO-ID-HERE
+- **Recover FB Account** — `Social Networks / Facebook / Search` — https://www.facebook.com/login/identify?ctx=recover
+- **Fedifinder** — `Social Networks / Fediverse/Mastodon` — https://fedifinder.glitch.me/
+- **Fediverse Observer** — `Social Networks / Fediverse/Mastodon` — https://fediverse.observer/
+- **Fediverse_OSINT (T)** — `Social Networks / Fediverse/Mastodon` — https://github.com/cyfinoid/fediverse_osint
+- **Masto (T)** — `Social Networks / Fediverse/Mastodon` — https://github.com/C3n7ral051nt4g3ncy/Masto
+- **Inflact Instagram Viewer (Anonymous)** — `Social Networks / Instagram` — https://inflact.com/instagram-viewer/profile/
+- **Osintgram (T)** — `Social Networks / Instagram` — https://github.com/Datalux/Osintgram
+- **InSpy (T)** — `Social Networks / LinkedIn` — https://github.com/jobroche/InSpy
+- **LinkedInt - LinkedIn Recon Tool (T)** — `Social Networks / LinkedIn` — https://github.com/vysecurity/LinkedInt
+- **ScrapedIn (T)** — `Social Networks / LinkedIn` — https://github.com/dchrastil/ScrapedIn
+- **raven (T)** — `Social Networks / LinkedIn` — https://github.com/0x09AL/raven
+- **Asian Avenue** — `Social Networks / Other Social Networks` — https://blackplanet.com/
+- **Ask FM** — `Social Networks / Other Social Networks` — https://ask.fm/%3Cusername%3E
+- **BlackPlanet.com - Member Find** — `Social Networks / Other Social Networks` — https://www.blackplanet.com/user_search/index.html
+- **Delicious** — `Social Networks / Other Social Networks` — https://del.icio.us/
+- **MiGente (Latino)** — `Social Networks / Other Social Networks` — https://migente.com/wp-login.php?redirect_to=https%3A%2F%2Fmigente.com%2Fuser_search%2Findex.html&bp-auth=1&action=bpnoaccess
+- **Myspace** — `Social Networks / Other Social Networks` — https://myspace.com/
+- **Odnoklassniki** — `Social Networks / Other Social Networks` — https://ok.ru/
+- **Orkut (Brazil)** — `Social Networks / Other Social Networks` — https://orkut.google.com/
+- **Share Secret Feedback (M)** — `Social Networks / Other Social Networks` — https://secreto.site/en/%3Cuser_id%3E
+- **TheHoodUp (NSFW)** — `Social Networks / Other Social Networks` — https://thehoodup.com/board/
+- **Tumblr** — `Social Networks / Other Social Networks` — https://www.tumblr.com/tagged/search
+- **VK** — `Social Networks / Other Social Networks` — https://vk.com/
+- **Reddit Archive** — `Social Networks / Reddit` — https://www.redditarchive.com/
+- **Reddit Comment History** — `Social Networks / Reddit` — https://roadtolarissa.com/javascript/reddit-comment-visualizer/
+- **Reddit Metis** — `Social Networks / Reddit` — https://redditmetis.com/
+- **subreddits** — `Social Networks / Reddit` — https://subreddits.org/
+- **Google Social Search** — `Social Networks / Search` — https://www.social-searcher.com/google-social-search/
+- **PinGroupie** — `Social Networks / Search` — https://pingroupie.com/
+- **Social Searcher** — `Social Networks / Search` — https://www.social-searcher.com/
+- **Talkwalker Social Media Search (R)** — `Social Networks / Search` — https://www.talkwalker.com/social-media-analytics-search
+- **SteamOSINT (T)** — `Social Networks / Steam, Discord & Gaming Networks` — https://github.com/Frontline-Femmes/Steam-OSINT
+- **Bellingcat Meta Content Library** — `Social Networks / Threads` — https://bellingcat.gitbook.io/toolkit/more/all-tools/meta-content-library
+- **Threads Dashboard** — `Social Networks / Threads` — https://www.threadsdashboard.com/
+- **Threads-Scraper (T)** — `Social Networks / Threads` — https://github.com/Zeeshanahmad4/Threads-Scraper
+- **ThreadsRecon (T)** — `Social Networks / Threads` — https://github.com/offseq/threadsrecon
+- **TikTok (M)** — `Social Networks / TikTok` — https://www.tiktok.com/@username
+- **TikTok-OSINT (T)** — `Social Networks / TikTok` — https://github.com/Omicron166/TikTok-OSINT
+- **Unfurl** — `Social Networks / TikTok` — https://github.com/obsidianforensics/unfurl
+- **yt-dlp (T)** — `Social Networks / TikTok` — https://github.com/yt-dlp/yt-dlp
+- **Birdwatcher (T)** — `Social Networks / Twitter / Analytics` — https://github.com/michenriksen/birdwatcher
+- **DMI-TCAT (T)** — `Social Networks / Twitter / Analytics` — https://github.com/digitalmethodsinitiative/dmi-tcat
+- **RiteTag** — `Social Networks / Twitter / Analytics / Hashtag` — https://ritetag.com/
+- **TAGSExplorer** — `Social Networks / Twitter / Analytics / Hashtag` — https://tags.hawksey.info/tagsexplorer/
+- **Foller.me Analytics** — `Social Networks / Twitter / Analytics / Profile` — https://foller.me/
+- **Tweepsect** — `Social Networks / Twitter / Analytics / Profile` — https://tweepsect.com/
+- **Twitonomy** — `Social Networks / Twitter / Analytics / Profile` — https://www.twitonomy.com/
+- **X0rz Tweets_analyzer (T)** — `Social Networks / Twitter / Analytics / Profile` — https://github.com/x0rz/tweets_analyzer
+- **Tinfoleak Web** — `Social Networks / Twitter / Analytics` — https://tinfoleak.com/
+- **Tinfoleak.py (T)** — `Social Networks / Twitter / Analytics` — https://github.com/vaguileradiaz/tinfoleak
+- **Tweet Metadata** — `Social Networks / Twitter / Analytics` — https://www.wsj.com/public/resources/documents/TweetMetadata.pdf
+- **Twint (T)** — `Social Networks / Twitter / Analytics` — https://github.com/twintproject/twint
+- **All My Tweets** — `Social Networks / Twitter / Archive / Deleted Tweets` — https://www.allmytweets.net/
+- **Spoonbill** — `Social Networks / Twitter / Archive / Deleted Tweets` — https://spoonbill.io/
+- **TweetVacuum (T)** — `Social Networks / Twitter / Archive / Deleted Tweets` — https://github.com/UberKitten/TweetVacuum
+- **Creepy (T)** — `Social Networks / Twitter / Location / Mapping` — https://github.com/ilektrojohn/creepy
+- **Fedica** — `Social Networks / Twitter / Location / Mapping` — https://fedica.com/
+- **GeoSocial Footprint** — `Social Networks / Twitter / Location / Mapping` — https://geosocialfootprint.com/
+- **One Million Tweet Map** — `Social Networks / Twitter / Location / Mapping` — https://onemilliontweetmap.com/
+- **Followerwonk (R)** — `Social Networks / Twitter / Search` — https://followerwonk.com/
+- **TweeterID** — `Social Networks / Twitter / Search` — https://tweeterid.com/
+- **Twitter Advanced Search** — `Social Networks / Twitter / Search` — https://twitter.com/search-advanced
+- **Twitter Date Search** — `Social Networks / Twitter / Search` — https://twitter.com/search?q=SearchTerm%20since:2016-03-01%20until:2016-03-02
+- **Twitter Location Search** — `Social Networks / Twitter / Search` — https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd
+- **Twopcharts** — `Social Networks / Twitter / Search` — https://twopcharts.com/
+- **CallerID Test** — `Telephone Numbers` — https://calleridtest.com/
+- **Data24-7 (R)** — `Telephone Numbers` — https://www.data24-7.com/signup.php
+- **Family Tree Now (M)** — `Telephone Numbers` — https://www.familytreenow.com/search/genealogy/results?phoneno=(555)555-5555
+- **Fone Finder** — `Telephone Numbers` — https://www.fonefinder.net/
+- **HLR Lookup Portal (R)** — `Telephone Numbers` — https://www.hlr-lookups.com/en/start
+- **Hiya (R$)** — `Telephone Numbers` — https://www.hiya.com/
+- **Numbering Plans** — `Telephone Numbers / International` — https://www.numberingplans.com/?page=analysis&sub=phonenr
+- **Numberway** — `Telephone Numbers / International` — https://www.numberway.com/
+- **Mr. Number (M)** — `Telephone Numbers` — https://www.hiya.com/products/apps/hiya-spam-blocker
+- **Next Caller (R)** — `Telephone Numbers` — https://nextcaller.com/
+- **Numspy-Api** — `Telephone Numbers` — https://numspy.pythonanywhere.com/
+- **OpenCNAM API** — `Telephone Numbers` — https://api.opencnam.com/v2/phone/+19073372323
+- **Phone Validator** — `Telephone Numbers` — https://www.phonevalidator.com/index.aspx
+- **Phonerator** — `Telephone Numbers` — https://www.martinvigo.com/phonerator/
+- **Reverse Genie** — `Telephone Numbers` — https://www.reversegenie.com/phone.php
+- **SpyDialer** — `Telephone Numbers` — https://www.spydialer.com:443/default.aspx
+- **True Caller** — `Telephone Numbers` — https://www.truecaller.com/
+- **Twilio Lookup** — `Telephone Numbers` — https://www.twilio.com/lookup
+- **Slydial** — `Telephone Numbers / Voicemail` — https://www.slydial.com/
+- **Whitepages Reverse Phone** — `Telephone Numbers` — https://www.whitepages.com/reverse-phone
+- **WhoCalld** — `Telephone Numbers` — https://whocalld.com/
+- **MIDINS TITAN** — `Tools / Graph Visualization` — https://github.com/Med0-n/Midins_Titan-Osint_Tool
+- **Analyst Research Tools** — `Tools / OSINT Automation` — https://analystresearchtools.com
+- **AutoOSINT (T)** — `Tools / OSINT Automation` — https://github.com/bharshbarger/AutOSINT
+- **DataSploit (T)** — `Tools / OSINT Automation` — https://github.com/datasploit/datasploit/
+- **IFTTT** — `Tools / OSINT Automation` — https://ifttt.com/
+- **Inquisitor (T)** — `Tools / OSINT Automation` — https://github.com/penafieljlm/inquisitor
+- **IntRec-Pack (T)** — `Tools / OSINT Automation` — https://github.com/NullArray/IntRec-Pack
+- **IntelligenceX** — `Tools / OSINT Automation` — https://intelx.io/
+- **Microsoft Flow** — `Tools / OSINT Automation` — https://flow.microsoft.com/en-us/
+- **OSINT-SPY (T)** — `Tools / OSINT Automation` — https://github.com/SharadKumar97/OSINT-SPY
+- **OSRFramework (T)** — `Tools / OSINT Automation` — https://github.com/i3visio/osrframework
+- **Omnibus (T)** — `Tools / OSINT Automation` — https://github.com/InQuest/omnibus
+- **PhoneInfoga (T)** — `Tools / OSINT Automation` — https://github.com/sundowndev/PhoneInfoga
+- **Photon (T)** — `Tools / OSINT Automation` — https://github.com/s0md3v/Photon
+- **ReconDog (T)** — `Tools / OSINT Automation` — https://github.com/s0md3v/ReconDog
+- **Scrummage (T)** — `Tools / OSINT Automation` — https://github.com/matamorphosis/Scrummage
+- **Slash** — `Tools / OSINT Automation` — https://github.com/redc86/slash
+- **Stringify** — `Tools / OSINT Automation` — https://www.stringify.com/
+- **Vector (T)** — `Tools / OSINT Automation` — https://github.com/thesaderror/vector
+- **Online Nikto scanner** — `Tools` — https://nikto.online/
+- **Overview** — `Tools` — https://www.overviewdocs.com/
+- **Paterva / Maltego (T)** — `Tools` — https://www.maltego.com/
+- **Low Hanging Fruit (T)** — `Tools / Pentesting Recon` — https://github.com/blindfuzzy/LHF
+- **Buscador OS (T)** — `Tools / Virtual Machines` — https://inteltechniques.com/buscador/index.html
+- **Kali Linux OS (T)** — `Tools / Virtual Machines` — https://www.kali.org/
+- **Microsoft Edge Development OS VMs (T)** — `Tools / Virtual Machines` — https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+- **ParrotSec OS (T)** — `Tools / Virtual Machines` — https://www.parrotsec.org/
+- **Subgraph OS (T)** — `Tools / Virtual Machines` — https://subgraph.com/index.en.html
+- **Tails Live OS (T)** — `Tools / Virtual Machines` — https://tails.boum.org/
+- **VMware Workstation Player (T)** — `Tools / Virtual Machines` — https://www.vmware.com/products/player/playerpro-evaluation.html
+- **VirtualBox (T)** — `Tools / Virtual Machines` — https://www.virtualbox.org/
+- **Whonix (T)** — `Tools / Virtual Machines` — https://www.whonix.org/wiki/Main_Page
+- **CeWL (T)** — `Tools / Wordlist` — https://github.com/digininja/CeWL
+- **Cupp (T)** — `Tools / Wordlist` — https://github.com/Mebus/cupp
+- **OWASP D4N155 (T)** — `Tools / Wordlist` — https://github.com/OWASP/D4N155
+- **W Generator** — `Tools / Wordlist` — https://app.wgen.io/
+- **Forensic OSINT KB Guides** — `Training` — https://www.forensicosint.com/osint-guide
+- **GeoGuesser** — `Training / Games` — https://www.geoguessr.com/
+- **Verif!cation Quiz Bot** — `Training / Games` — https://x.com/quiztime
+- **Open Source Intelligence Techniques** — `Training` — https://inteltechniques.com/
+- **Plessas** — `Training` — https://plessas.net/online-training
+- **Smart Questions** — `Training` — https://www.catb.org/esr/faqs/smart-questions.html
+- **The OSINTion** — `Training` — https://www.theosintion.com/courses
+- **ADS-B Exchange** — `Transportation / Air Traffic Records` — https://www.adsbexchange.com/
+- **ADS-B.NL** — `Transportation / Air Traffic Records` — https://www.ads-b.nl/index.php?pageno=9999
+- **Flightradar24.com** — `Transportation / Air Traffic Records` — https://www.flightradar24.com/
+- **OpenAIP World Aeronautical Database** — `Transportation / Air Traffic Records` — https://www.openaip.net/
+- **World Aeronautical Database** — `Transportation / Air Traffic Records` — https://worldaerodata.com/
+- **Global Fishing Watch** — `Transportation / Marine Records` — https://globalfishingwatch.org
+- **OpenSeaMap - The free nautical chart** — `Transportation / Marine Records` — https://www.openseamap.org
+- **Ship AIS** — `Transportation / Marine Records` — https://shipais.uk/
+- **Vessel Finder** — `Transportation / Marine Records` — https://www.vesselfinder.com/
+- **Vessel Tracker** — `Transportation / Marine Records` — https://www.vesseltracker.com/
+- **Deutsche Bahn Open-Data-Portal (German)** — `Transportation / Railway Records` — https://data.deutschebahn.com/opendata
+- **OpenRailwayMap** — `Transportation / Railway Records` — https://www.openrailwaymap.org/
+- **Satellite Tracking** — `Transportation` — https://www.n2yo.com/
+- **Track-Trace** — `Transportation` — https://www.track-trace.com/
+- **AutoRef (EU)** — `Transportation / Vehicle Records` — https://www.autoref.eu/en
+- **Carnet.ai** — `Transportation / Vehicle Records` — https://carnet.ai/
+- **FindByPlate** — `Transportation / Vehicle Records` — https://findbyplate.com/
+- **Finnik (NL)** — `Transportation / Vehicle Records` — https://finnik.nl/en
+- **MyAccident - traffic accident map** — `Transportation / Vehicle Records` — https://myaccident.org/
+- **NHTSA Vehicle API** — `Transportation / Vehicle Records` — https://vpic.nhtsa.dot.gov/api/
+- **VinDecodr** — `Transportation / Vehicle Records` — https://vindecodr.com/
+- **autoDNA VIN Lookup** — `Transportation / Vehicle Records` — https://www.autodna.com/
+- **carVertical VIN Decoder** — `Transportation / Vehicle Records` — https://www.carvertical.com/vin-decoder
+- **Amazon Usernames (M)** — `Username / Specific Sites` — https://www.google.com/search?q=site:amazon.com+%3Cusername%3E
+- **Github User (M)** — `Username / Specific Sites` — https://api.github.com/users/%3Cusername%3E/events/public
+- **Keybase** — `Username / Specific Sites` — https://keybase.io/
+- **MIT PGP Key Server** — `Username / Specific Sites` — https://pgp.mit.edu/
+- **ProtonMail Domains (M)** — `Username / Specific Sites` — https://api.protonmail.ch/pks/lookup?op=index&search=<email_address>
+- **ProtonMail users (M)** — `Username / Specific Sites` — https://api.protonmail.ch/pks/lookup?op=index&search=<username>@protonmail.com
+- **Tinder Usernames (M)** — `Username / Specific Sites` — https://www.gotinder.com/@%3Cusername%3E
+- **FootprintIQ** — `Username / Username Search Engines` — https://footprintiq.app
+- **GitFive (T)** — `Username / Username Search Engines` — https://github.com/mxrch/GitFive
+- **Lullar** — `Username / Username Search Engines` — https://com.lullar.com
+- **NameCheckup** — `Username / Username Search Engines` — https://namecheckup.com/
+- **Namechk** — `Username / Username Search Engines` — https://namechk.com/
+- **Names Directory** — `Username / Username Search Engines` — https://namesdir.com/
+- **Sherlock** — `Username / Username Search Engines` — https://github.com/sherlock-project/sherlock
+- **Sherlock (T)** — `Username / Username Search Engines` — https://github.com/sherlock-project/sherlock
+- **Sylva Identity Discovery (T)** — `Username / Username Search Engines` — https://sylva.pfeister.dev/
+- **Thats Them** — `Username / Username Search Engines` — https://thatsthem.com/
+- **WhatsMyName (T)** — `Username / Username Search Engines` — https://github.com/WebBreacher/WhatsMyName
+- **WhatsMyName Web** — `Username / Username Search Engines` — https://whatsmyname.app/
+
+## Provenance
+
+This file is generated from upstream data. Third-party resources remain subject to their own terms.
