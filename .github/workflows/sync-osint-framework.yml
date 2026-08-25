@@ -34,12 +34,14 @@ jobs:
         run: |
           python3 -m json.tool data/osint-framework.json >/dev/null
           test -s data/osint-framework-links.md
+          test -d categories
+          test "$(find categories -type f -name '*.md' | wc -l)" -gt 0
 
       - name: Änderungen übernehmen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/osint-framework.json data/osint-framework-links.md
+          git add data/osint-framework.json data/osint-framework-links.md categories/
           if git diff --cached --quiet; then
             echo "Keine Änderungen am Upstream-Datensatz."
             exit 0
