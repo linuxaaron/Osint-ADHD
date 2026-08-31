@@ -1,11 +1,11 @@
-# OSINT Framework — generated URL index
+# OSINT Framework — vollständige Linkliste
 
-> Generated from the official OSINT Framework dataset. Do not edit manually.
-> Source: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
+> Automatisch aus dem offiziellen OSINT Framework erzeugt. Nicht manuell bearbeiten.
+> Quelle: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
 
-**Indexed resources:** 1167
+**Erfasste Ressourcen:** 1167
 
-## Resources
+## Alle Ressourcen
 
 - **AI or Not** — `AI Tools` — https://www.aiornot.com/
 - **Copyleaks** — `AI Tools` — https://copyleaks.com/
@@ -1175,6 +1175,6 @@
 - **WhatsMyName (T)** — `Username / Username Search Engines` — https://github.com/WebBreacher/WhatsMyName
 - **WhatsMyName Web** — `Username / Username Search Engines` — https://whatsmyname.app/
 
-## Provenance
+## Herkunft
 
-This file is generated from upstream data. Third-party resources remain subject to their own terms.
+Diese Datei wird aus dem offiziellen Upstream-Datensatz erzeugt. Die verlinkten Drittanbieter-Ressourcen unterliegen ihren eigenen Nutzungsbedingungen.
