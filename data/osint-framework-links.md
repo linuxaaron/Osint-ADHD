@@ -3,7 +3,7 @@
 > Automatisch aus dem offiziellen OSINT Framework erzeugt. Nicht manuell bearbeiten.
 > Quelle: https://github.com/lockfale/OSINT-Framework/blob/master/public/arf.json
 
-**Erfasste Ressourcen:** 1167
+**Erfasste Ressourcen:** 1166
 
 ## Alle Ressourcen
 
@@ -1068,7 +1068,6 @@
 - **Twitter Date Search** — `Social Networks / Twitter / Search` — https://twitter.com/search?q=SearchTerm%20since:2016-03-01%20until:2016-03-02
 - **Twitter Location Search** — `Social Networks / Twitter / Search` — https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd
 - **Twopcharts** — `Social Networks / Twitter / Search` — https://twopcharts.com/
-- **CallerID Test** — `Telephone Numbers` — https://calleridtest.com/
 - **Data24-7 (R)** — `Telephone Numbers` — https://www.data24-7.com/signup.php
 - **Family Tree Now (M)** — `Telephone Numbers` — https://www.familytreenow.com/search/genealogy/results?phoneno=(555)555-5555
 - **Fone Finder** — `Telephone Numbers` — https://www.fonefinder.net/

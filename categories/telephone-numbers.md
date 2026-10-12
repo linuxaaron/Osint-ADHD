@@ -3,17 +3,7 @@
 > Automatisch aus dem offiziellen OSINT Framework erzeugt. Nicht manuell bearbeiten.
 > Die Namen und Beschreibungen der externen Ressourcen bleiben im Original, damit keine Bedeutungen verfälscht werden.
 
-**Anzahl Ressourcen:** 18
-
-## CallerID Test
-
-- **URL:** https://calleridtest.com/
-- **Kategorie:** Telephone Numbers
-- **Beschreibung:** Caller ID and number-validation utility for checking formatting and telecom metadata responses.
-- **Status:** live
-- **Kosten:** freemium
-- **Registrierung:** False
-- **API:** True
+**Anzahl Ressourcen:** 17
 
 ## Data24-7 (R)
 
